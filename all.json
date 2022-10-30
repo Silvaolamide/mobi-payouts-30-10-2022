@@ -1,0 +1,5397 @@
+{
+    "acre": [
+        {
+            "address": "0x6aaad6bdff09fdc5c664ce7e327d656f8c3f0c15",
+            "payoutAmount": 563.1999999999999
+        },
+        {
+            "address": "0xf2787bfd9525c5db0d8715785e85357838254a8b",
+            "payoutAmount": 6035.2
+        },
+        {
+            "address": "0xe5882d695069193e577933764bd3e3d453df6f3e",
+            "payoutAmount": 352
+        },
+        {
+            "address": "0x351318471bc2e19371638375619c81dc3db21821",
+            "payoutAmount": 716.8000000000001
+        },
+        {
+            "address": "0xc1d30e21a561ec47ed7f5da016bf0d73c6110a56",
+            "payoutAmount": 227.2
+        },
+        {
+            "address": "0x409b37fd4b8b951a218fcb91ae586eb73d1305bc",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x78c3c32938d311dc8598f91d3eda3753d9d583de",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0xc3b118d6083a368c9a2b749c60a7c517c83a0d46",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0xa2d658b69689589ada9459ce79a9a94b58da67be",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x8d2374e6c8ee3750eac13d6a6b0bce9fbdcc7396",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0xc4e400f07e2db28abc77bde462af88d14902460c",
+            "payoutAmount": 102.4
+        },
+        {
+            "address": "0xd5b9a0c1d79c4ab378621676b943f08e086551ca",
+            "payoutAmount": 153.60000000000002
+        },
+        {
+            "address": "0xb027818c1209dd4d8e6b7d172c61ef9840724a1d",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xbe1822a6d188f8e10126f20c34102f122f1abdaf",
+            "payoutAmount": 227.2
+        },
+        {
+            "address": "0x193d337def7c1074f1aa2e5c122bc4c1a4149369",
+            "payoutAmount": 278.4
+        },
+        {
+            "address": "0xab6be8d14859bdf8326e076ec0a69cea7c656b56",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x1866a51906d0fe1fd8ec2f9c51afa3fbfb26d90c",
+            "payoutAmount": 102.4
+        },
+        {
+            "address": "0x50ea92e2ce98f11541ddc8defdd4abac0d2e0847",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xe9fb89d376e6109b9991e1b2bbbdc229069fe292",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x63f06788670d8fe1e8994f88029b611b7a63821a",
+            "payoutAmount": 102.4
+        },
+        {
+            "address": "0xe2fc31f816a9b94326492132018c3aecc4a93ae1",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x2bd9904ca0dbb0501165c19a29c3ce84ae77bc4a",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xc4b4a7facbb13886f13e36b1074a23c3c04aeafe",
+            "payoutAmount": 880
+        },
+        {
+            "address": "0xdf34f404e180949bd303bb2b55056358acb366f7",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0xbdd9f4a38fa13d3950bb8246d7b3000647e97564",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0xcb534e4b6790b1dbe725308e401d2e4e3d93c1f2",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x6fd292d3bfbae65ec6c694850cadc3884262efa4",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xad6afa1b1efb187c061a8080350b206733afd871",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x6f8aae15dc5d97e1914f94a04763232c569bb6ab",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x5b953efb26625edefc1e4739f7b95f7ccc21069e",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x316ac284bf29667b4d0ee60aefca4a257f3264ba",
+            "payoutAmount": 880
+        },
+        {
+            "address": "0x0508b8fd24bd40337311fa3636b5b8596f33f0f1",
+            "payoutAmount": 227.2
+        },
+        {
+            "address": "0x1237862c73dcf01b3ceaa8d60eb658497720ce65",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xf314f11a6cb6101d647acfa155f82db24a264200",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0xa11f9b95ca2fee1c9bbd9fdf03f9da93131e6083",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x9dee33b16db73997834374e98bc206a98d334c54",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x94af7911558161c3977a71ccb1423372dd6ea73d",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x0abd828a2d5430ec2c9224215537d1e7955de408",
+            "payoutAmount": 352
+        },
+        {
+            "address": "0xa61d79404823da880b0c24326511555071926bab",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x54d1779ef28efb4cc0c24e3a0ef43e8a3862b873",
+            "payoutAmount": 704
+        },
+        {
+            "address": "0x4da28e79b53f557eded5e71f94a4c1e44b37706b",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xf46288c820c6cc64e09a59b59049eff4c9fa6b82",
+            "payoutAmount": 204.8
+        },
+        {
+            "address": "0xcabec744af163bc22985e50abb5022cb9ab311ce",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x4c0aa329f65827fad0e6a37528712418ac179837",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x3239587d513f443df0f095f66ed1da0d12bd06aa",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x52fb532ab324a3689baa07ab5742edbc4c31a85e",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xc4d7a3ec685dfdbebce6f7d626492da094c575fa",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x8fb189739a0f748203cbe2c5a767eda61845b6c5",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x87eed0128bd62c024c09585acbfa5df70d22cf0c",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xa770c5f508dd2d5905e0fab37d30fa724c1b8a2c",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x9966e132471557b2cfe06d4b6c6aad4dd516e2c6",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xe5d65d91cdfd8d9f78672bfd03a175117c721cb8",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x058c08a7e90572da987ef5fefa9eb1510a70c6cc",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x6d002fc96a2ceb6b984a6aa90f0d9f8b35d96864",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x08291df0a3d7241734be2a13bcbb802b3afa1ee8",
+            "payoutAmount": 352
+        },
+        {
+            "address": "0xb46aa612ced8dc3dd2a2f495922889c93ea1d6fb",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x0374ead80c03ea6c91c946ab8a7a68fcb009482d",
+            "payoutAmount": 704
+        },
+        {
+            "address": "0xc1146f4a68538a35f70c70434313fef3c4456c33",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xeccb9b9c6fb7590a4d0588953b3170a1a84e3341",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x86fb8e559b6beb742e40665223d890c39ac87f94",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x46d301cccea623b77217342e356ea4983a36caee",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xb7c7e2b4b138781abb8bf33322a58cc6fef061d3",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xd58681ed5b9128c055ef4ec16e4c9e3bf99db71f",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x2ddc599cf55a7d106b586aee04ce96426e7acd1f",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xa3be222eeaede55029871733d71f82bc0da7b2de",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x911495e61edc13dc0424cf03cadeaa621e4ecca2",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x23171684ef22c7120c42e4596d22cb255f2c609a",
+            "payoutAmount": 1232
+        },
+        {
+            "address": "0x1b6a05198c2ff890e7fd7f11be8720e20f4c68c6",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xdaf40e84425efad47191a21cd97e95c2b4910952",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x68ae261e6ee6c25206b4f78df6fa645d79d38a66",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x1fc4aa12f0497ddec35211d90df662d59d7db57d",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x9875ef95c9446104a1f04f54f8ee6d9ea9012169",
+            "payoutAmount": 352
+        },
+        {
+            "address": "0xa8421ac159eb90d0d7fa3085999c8b56b37673ed",
+            "payoutAmount": 352
+        },
+        {
+            "address": "0xb9fe7f3c20d1c27d106f4455d7acc048247af8a2",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x2ac69fe558d93c8cb36fe7bfd7d2ed57190ec350",
+            "payoutAmount": 352
+        },
+        {
+            "address": "0x77a7494bd3a761d4b83ceda20a226af854a2fde2",
+            "payoutAmount": 528
+        },
+        {
+            "address": "0x13ec911b287b1aefc3c9f4dd1b50068be0ebfdaa",
+            "payoutAmount": 352
+        },
+        {
+            "address": "0xaf689d69b6b1ad029d9f38d2d774d50661e710df",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x6ff532232f24987bf5f00753b513d6e0d3cff532",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x91781c2b835acea9e6c805082dcaad239c040267",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xf1cff66f2ceefeb3ae352e2a1f1ef82cc0707196",
+            "payoutAmount": 352
+        },
+        {
+            "address": "0xae82ac59fd5ef9fd641bad02158ba5832fac637e",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x002c891baa72ad779104b44cd1f7df1c17028fb7",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0xd802c5ef6cd26d591ff4474c64494d4b34fab323",
+            "payoutAmount": 176
+        },
+        {
+            "address": "0x3ef8bf7ed4e1b8b889578d94e9694ebef12798e4",
+            "payoutAmount": 352
+        },
+        {
+            "address": "0x9bf455ac9342f8c67ddcd4daa40f573046956025",
+            "payoutAmount": 352
+        },
+        {
+            "address": "0xc2fc360ebe63b52c67371788946d7ba482a24ac5",
+            "payoutAmount": 352
+        },
+        {
+            "address": "0x80bd8fc6be61893977aef156fb2e6bb289aa600e",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0xb6404145ca0d2331ede0363f3a0ca5813a098f90",
+            "payoutAmount": 204.8
+        },
+        {
+            "address": "0xfbb9c6ae5ca949058d5775557b293f30dff701a9",
+            "payoutAmount": 102.4
+        },
+        {
+            "address": "0xc078419833f9cd7e22af92d703bbe7ad80b62b1b",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x02f4b6e356e5868a3a3a8e0ac0e259e24cad21dc",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0xaf2a619346d421f90b08129136e7b4a8d0d1d957",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x42eaa55f3d23fcf734aa6d5a44837f6aa8ace7fe",
+            "payoutAmount": 204.8
+        },
+        {
+            "address": "0xb7e44ca0c2823faaeabd62fbc5f522ac2766ac1a",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0xaf20b275a94d830cdd5ad4355119c99b52812a15",
+            "payoutAmount": 204.8
+        },
+        {
+            "address": "0x167abf3325eb715ea1cd8a2decbb4d29427af8bd",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x8d742e9cccd2fa4a59e94dccc75c73ca8d5d190d",
+            "payoutAmount": 204.8
+        },
+        {
+            "address": "0x505c8e5fff46c138de7537bf918310ce565cfe81",
+            "payoutAmount": 102.4
+        },
+        {
+            "address": "0x99c4b2ed620e005edf8157b1a1c404f5fd3c7090",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x00464f8016d1e4f4de94af65d5505bb80e18eb00",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0xca9cd613d990c0c33490e37c80005f30a0235e28",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x96c7a39f3c87f3b0dca6ea27f5f54354d38a0fa6",
+            "payoutAmount": 204.8
+        },
+        {
+            "address": "0xd31d1ca2d1eff20533d21b2f59e6ad317a8bec65",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0xd4d7d8d6f58ddf1c976f2d0fd991a622811e1a6f",
+            "payoutAmount": 51.2
+        },
+        {
+            "address": "0x2f239a1561d8c92a2d22884dc5d314e77eebb39a",
+            "payoutAmount": 102.4
+        }
+    ],
+    
+    "plot":
+
+    [
+        {
+            "address": "0xe5882d695069193e577933764bd3e3d453df6f3e",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0xe7908ddffe945b547a07cf9d61b08f8a9edb09b5",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xc6cbdd49a933fac2188e9d5d1beae4f78c78c4f5",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0xc4e400f07e2db28abc77bde462af88d14902460c",
+            "payoutAmount": 184.5
+        },
+        {
+            "address": "0x4d44f0738d08709fceeab5fe73bc18dd71ed13d1",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xc3b118d6083a368c9a2b749c60a7c517c83a0d46",
+            "payoutAmount": 37.84
+        },
+        {
+            "address": "0xb027818c1209dd4d8e6b7d172c61ef9840724a1d",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0xdb8b1e6a02a7f67dd6d7ea69e060a0a929d2ff51",
+            "payoutAmount": 17.04
+        },
+        {
+            "address": "0x857c99510be6d9b06e4546bf57a7cabeee2c6a0b",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x1ce1d70523bf3660d66eaff6aa3aa21d86671b77",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x20efd562a3109ff1660fea77679309f7b18c0919",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x8db8b108128428e5a55aa570b3f9e09a318ff299",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x83a644702a1030d4b9a81026b6bf75c8b0c865b4",
+            "payoutAmount": 25.56
+        },
+        {
+            "address": "0x768b1484e3c5ca572daa4a301a7cbfa705c225f5",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0xbaff35e77e6230374c4e6120a2045ae10fe30731",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x8670e23540cc6275492e9721a33ab73564ffbc39",
+            "payoutAmount": 51.11999999999999
+        },
+        {
+            "address": "0x813bf9dc5aa1f9ee709e01e6ce5e08fea2206ce2",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0xdd4b74e9079918acc3370787226e2c046aaf67ed",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x23444f470c8760bef7424c457c30dc2d4378974b",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x1ef774b9562169a1fbe74bce17e518dc764ba414",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0xd9e5e4173e852522495702f8b01e295c41a27bfb",
+            "payoutAmount": 352.02
+        },
+        {
+            "address": "0x434a9e52c76e69f4b7df859d5ba46f488318f579",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x817ee93d9315c377d14636be7ee27962b79f165e",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x6fa8c51d0556856ab99fc27dd577bc8b8ddf91a9",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xcfa373fcf67e4071b5485192bfaf1d5597a473be",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xde30cdee89afb157253717d12da8120e1ac06020",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0x94fb00856da627ff688994244c387f246d1887cf",
+            "payoutAmount": 87.96000000000001
+        },
+        {
+            "address": "0x0626b2d976fbce3efb3d24b74639d3249ddbd8e4",
+            "payoutAmount": 87.96000000000001
+        },
+        {
+            "address": "0xa056ce37a6ecfa6aa13e7827b3d2488cee032fa6",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x13663aea44874fff6835ea94dd96ebf57bf7ba4e",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xd096ca0c64b324efc4a0365ea6df296906f72b38",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xa5c3129219ef7d113b835fb96f077570505b492b",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xf7b69900fbba645d95e806a508a01fb81169ff69",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0xfebe4c88bc7039d6722fea1176e351246757ac28",
+            "payoutAmount": 234.68
+        },
+        {
+            "address": "0x4297cb7b0822fedc12d289091c5e7aea70a7f047",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0xa6a37921ad980f396bb0b749d5fa0c86f1e802f2",
+            "payoutAmount": 704.0400000000001
+        },
+        {
+            "address": "0x9200993074a998f4205c9e7b6b06b8f9f59b4a54",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x3239587d513f443df0f095f66ed1da0d12bd06aa",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0xc88d911892e499687b9d975f3fa7113ccb4cb32d",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x8bdac99e1d7fa3edd1cbacb21a79d5b68f809f79",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0xc50e2a4c502c6c52d9a279efcf8d179447c07a46",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x6093ef2f5b206fff2171af5bef2c506edb200470",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0xcdeceeaa985aef51a45c79418f3ec9254c22e680",
+            "payoutAmount": 234.68
+        },
+        {
+            "address": "0x97667e07eef1efe254d37a13de221425740e3774",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x614c1024804f7f28f8718d5a5d0fe2e459aeb6d9",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x24030bffb706fbdce4a7a7e601a6fd346c503f78",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x8e1aa38f23707302a6da73105fcfc18aaad385d6",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x2a7e540f8bc07c046380fe00003e3f0c76ecd0b9",
+            "payoutAmount": 117.34
+        },
+        {
+            "address": "0x554ea6fcfd101cb05343ce931a1e45c28254cfa4",
+            "payoutAmount": 17.04
+        },
+        {
+            "address": "0xbe1822a6d188f8e10126f20c34102f122f1abdaf",
+            "payoutAmount": 146.66
+        },
+        {
+            "address": "0x32f3aff3e186bff721a0f26bdd7260049effebb5",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xe2dd7b0b97281d801da3a8c002a1e22ce76968c6",
+            "payoutAmount": 17.04
+        },
+        {
+            "address": "0x456aebd5e2f80e08e480048f659ee0ba453fb94c",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0xa14c999ff1393cb3f3110ad7173a7b13e814c5a9",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0x02b3685afae72b8b3df87204d620be1d7b5d23d0",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0x1811388e5343e5e4c7f3fc4be9190c164cdd71fa",
+            "payoutAmount": 192.95999999999998
+        },
+        {
+            "address": "0xbe5f39e4571c88d3d6dfaa9df4abb5b467b0be42",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x514aeb041175bb0df8b1f5498933c9859841b4a2",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xfcc154b6562a95b377ebf0fd1b76e8e41c4d3a9b",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xf28404eec38e9a7e1669ac95d9cdd3664cbdb7c2",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0x41e0b226c58b3648e806ccdbfc43200c793bde81",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0xb9ac7df5b410c12b732b84e1e80d2bfa9cd8082c",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x8c80797b7a512aef8f00717cdbd09e5c412480d6",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x7cf8b94a53efdd432f9814484e85cc444ee2d1b3",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xc071aa01325310d16eb0058bb49b2a05dd45fc57",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x57bec600c9376c27ab9680b41743d3de238ddff5",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x9843c70a6900efc559cc39c383d8e56330ff91d8",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0x63b776c7cd8beeb0682e0a8468402d30d8ff7951",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0x27b68bf0d47d4666a97edc635452dd5b9301e892",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0x88a112caed3dc048f58bae41be86327276ef2334",
+            "payoutAmount": 17.04
+        },
+        {
+            "address": "0x4aafab37425ed4b32d21dd2041ee8244a5f0b798",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0x753b1a928980ae6dc8499c2dbb4b8449d56cd4fc",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x238a807011842c11858a6e39a83813430c54c927",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xf4df77175937086faab0c99ca070f1ae353e80ab",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x31c6d1286c8a023f9d476df4c91f8ee1248579a3",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xa93e2f04e15a6949d7d0d18ddb918a8ffdaad27c",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xda5ebb6d78b7f86530e05ccc22ad2031b5ea1c60",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0xb6a6f10e5eab67bdba14bb12f1451d758c2277c6",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x0fb3586775d082f42b8ae7a867b4b6f4d4522656",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x454a232509cedcd387fa85a34871e53351262a5a",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0x277825588aaa1ab1aa5544feb9788942539a289d",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0x9c6ff01fb8d8801ae45736f813c889dd182baacf",
+            "payoutAmount": 87.96000000000001
+        },
+        {
+            "address": "0x1262d4f59c759db21b001254a044860d4601de33",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x6d4ff9e0aaa7f31025b7596a9ee1075f107c2cc1",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x5b80c0e540b5f424a4ecd4f89ad0f8d5e4b2acda",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x86fb8e559b6beb742e40665223d890c39ac87f94",
+            "payoutAmount": 87.96000000000001
+        },
+        {
+            "address": "0x01081998895428b4de440f5468e0ead0116e3b7b",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x0abd828a2d5430ec2c9224215537d1e7955de408",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x876da788e213b585b1d33582647d40038165e14f",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x8d2374e6c8ee3750eac13d6a6b0bce9fbdcc7396",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x91d94b6981f83232be2bdc1b2e0737edf3f19140",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x55bde92369a2adfff037a0a422cd42f5f1a0e36b",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x5b3f5226fd21161a1796918b82f36605a27c0303",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x1a23f7cefd4f1f311b6bfc2d8d9a4f610d5b634f",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xd58681ed5b9128c055ef4ec16e4c9e3bf99db71f",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0x5c1b3c4224389f1baebfcedc1a8997e5369bff8b",
+            "payoutAmount": 87.96000000000001
+        },
+        {
+            "address": "0xa67cefdc65dbd4ca5847c4b2e25aa7bfdf377706",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xe579b88afa178806d8a60f87a1515e2cd5a1889d",
+            "payoutAmount": 87.96000000000001
+        },
+        {
+            "address": "0x006cc6c23fdaaddaed6b89189f5c482968483a6e",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xa2b914c9f991fbb331ec91ce7d5a3e394c47bda9",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x8b4a94e58982534337503df1cd1d4e6168807def",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0xe2adf8b22acf982166ea8890cbd9c846ef5c5715",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x9bfe3277c2f9eef6e71e97c900c565e0fbf25850",
+            "payoutAmount": 58.64
+        },
+        {
+            "address": "0x3b8199e5f2d7cdfc3e8078b0e3cdae8e94e7ccb6",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0xa11f9b95ca2fee1c9bbd9fdf03f9da93131e6083",
+            "payoutAmount": 87.96000000000001
+        },
+        {
+            "address": "0x749d53ae7c62abb75a5ed7e35184670bf4551164",
+            "payoutAmount": 87.96000000000001
+        },
+        {
+            "address": "0x738cdcde2afef0383bc46e5d502f9c6763c81af7",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x9bda81715596c44db6d8afdedeb60231325671c4",
+            "payoutAmount": 175.92
+        },
+        {
+            "address": "0x9ef3677970618238bdaeb41820ae79eb4db1c9e6",
+            "payoutAmount": 29.32
+        },
+        {
+            "address": "0x4787b22c3ff5c5209e8073c8b5fa628e0edb7a46",
+            "payoutAmount": 175.92
+        },
+        {
+            "address": "0x068b33bcde955772e33b9fdc41e515365cb6977d",
+            "payoutAmount": 17.04
+        },
+        {
+            "address": "0xd2399362a01ee1e6ed5b7b948a10e671123ab4f3",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0x7b71fac2b3805ea1bed4b16cbe775f4512e9e372",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0xe52513c21e0e08d51de6e7a1e3d3c30fa596a35d",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0x69eb197b5309b5fd1c8c30bcc104b1dfae564425",
+            "payoutAmount": 25.56
+        },
+        {
+            "address": "0xca9cd613d990c0c33490e37c80005f30a0235e28",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0x96c7a39f3c87f3b0dca6ea27f5f54354d38a0fa6",
+            "payoutAmount": 34.08
+        },
+        {
+            "address": "0x743e1fe7097280d6797fb932f60da7594805d475",
+            "payoutAmount": 17.04
+        },
+        {
+            "address": "0xfdb5e211f84b8e1c9db6e3426a519e4dfd6b9d28",
+            "payoutAmount": 8.52
+        },
+        {
+            "address": "0x4c85973aa4d667497fed1556ee3b3a2d27ae8224",
+            "payoutAmount": 8.52
+        }
+    ], 
+
+    "yard":
+    [
+        {
+            "address": "0x836479c4ec35077923d71ac14aabc7ba256a2478",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x5b2aba0da36828d68c825037c92d6f97a4571abe",
+            "payoutAmount": 339.0400000000001
+        },
+        {
+            "address": "0x46185b05ddf0bc7e3ea3dd994c39d29612f3c0ee",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xc860c924cbd12adc136668c477594faeeb0f26df",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xe5882d695069193e577933764bd3e3d453df6f3e",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xfca2237a079698274b3756ecec81c0d3d2d4c25f",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x677af7ed309c32f13a557bdd4c3ead6baf4110a1",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x6156d66c3189b9c5b80965d8f968b7a66c5ec8b5",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x9711d322de94a6db8a29d28ab1676ac8ff73405d",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x5a86b5f72ca7c9b2be17a8bf0cdbf7789d27960c",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x0a49c011eeab9f4f83a04c48f3131b42d16985a8",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xac1a38538bb49efc0d1b5dbc486b96108130bfa8",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x93982389f8bd7e331161af4b5fd297e89cbc375d",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xd696ea5ee1b9e99a4ba12f348f107340ccc53bcd",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x4dc88d395e77ca32b227dbb34bd02d792a725e78",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xdecfa9cab1d4117119ea1f11fad5fdce716538bb",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xc111c3f42ff91b7d7500687cbf77b11dbf0961a0",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xc2fc360ebe63b52c67371788946d7ba482a24ac5",
+            "payoutAmount": 52.160000000000004
+        },
+        {
+            "address": "0x395e05d07d688e52f6e8562eb333e758309026dc",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xa3094e99ff7ad63fef0d14e870cddcf7b937ce46",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x27b68bf0d47d4666a97edc635452dd5b9301e892",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x4386a86277a03ff37188416767ad74e4381b226c",
+            "payoutAmount": 52.160000000000004
+        },
+        {
+            "address": "0x82ec6851f3776650e401dc8cb94cedb7b1b43d1c",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x8b8f2c6e32715b7330416e3008430089f48d9662",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x2a1f129bf2dfbb9779249c9505fc51744d1d3571",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xdd4b74e9079918acc3370787226e2c046aaf67ed",
+            "payoutAmount": 39.120000000000005
+        },
+        {
+            "address": "0x882929d0481158ea829171896fc8fb16a4f35661",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xddb9881c2098c58f0981afed8a044dce7a9125d7",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x9f83a430081fbc7d03b36c1115213de1d8217d83",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xcc4d2f18917bb0a502d80df8e8b4ec14bed8d6c5",
+            "payoutAmount": 39.120000000000005
+        },
+        {
+            "address": "0xb1eebcdf749637cac0c71aec4456558725e6bacd",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x9d1861d9e1b20deec5a3b8d203a44c6e4da8b1a0",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x930a8f7bd6fa77cb7004163dc63edabe9844cfbe",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x2f9a7335434d605df5401f141030722d815ae471",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x7b2b59628a685a2beb553aef6caf9e4e26bba936",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x640810fcbb69e70f31f831d0d8d43eb84d9b7486",
+            "payoutAmount": 52.160000000000004
+        },
+        {
+            "address": "0x4be31bc593bed9754e286ad2a0609261def7eb0d",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x32f07a35b61072f0331dd8fcf09455dfdc58f1f6",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x8b6d458f2671aed941071cff1d4fddf2368f7448",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x6857a04e2f3ae425549f80d752ae2e5ce2970f83",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x152e22a25f82fde351fdaeb9911cde1be2fe0d7e",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xe5a84da84122246c93d7550d4488be6459413f09",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x3db0049a26728f77e8acdb197772a8f54a52e1cc",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xcbf8244b71d1a072737423fc2e53ce269f32ed3e",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x276fe3ab264c22a60252b101c2b7dc1c9b435b93",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x0a2eb412cb31d4b2e38741603ad25645ad3d678a",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x5f3d5496265ffc0769c32cfaaa47fafa46986fd5",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x35eabfcc8f3e491ca8e3f1e8f064a4138d2f27c9",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x3c999dcd38a12efee3b2c4a16f798187f04bd7b1",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xd88c1538da79b356e2e2e6ad954edf80a5571f71",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x5153184413531e48d30a688491f5081619461613",
+            "payoutAmount": 39.120000000000005
+        },
+        {
+            "address": "0x665d148b36a7015bf139a3b59e6ba3443be0b7e6",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xaf2a619346d421f90b08129136e7b4a8d0d1d957",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x322a82e74f75e6b10fa1ba1888ec19605e90de97",
+            "payoutAmount": 39.120000000000005
+        },
+        {
+            "address": "0xb7665751051ef8265080867d6fc6b58c391e5259",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x85b9457c9bd0fb270f79f09ce12f791281b1ff25",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x97667e07eef1efe254d37a13de221425740e3774",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x79780c101d60e13aa23ab1d97c66305b29c46e1e",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x65ed5440754eb3b7c505f959d5d4c311ee753170",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xb7e341a43d653fa5800aef5370366d1dc6bd71e8",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xf827b01aca06da17135238c1103dd7ea952b79f6",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x89e93c4a90ed0160e44ae8efb891fe82819be638",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xc24dc5f4bff39def4ad3418acf130097cc50767c",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xcb40ed766ada305f0d0ae96540570fac4e7ac03e",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xa6a37921ad980f396bb0b749d5fa0c86f1e802f2",
+            "payoutAmount": 65.2
+        },
+        {
+            "address": "0xef151e6c1780f3cb608694c58efc455a6f7e16fb",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x44de12f50bfde5d72181ab6abf1e0b574bd08cee",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x522f2a0c56cbb214a900a9731a2a164d549acc29",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x7b71fac2b3805ea1bed4b16cbe775f4512e9e372",
+            "payoutAmount": 39.120000000000005
+        },
+        {
+            "address": "0xc04e3ebed6c972f1c6b3b670b5909c8946ddf69f",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xb4b4f5b12e7a711fdc663e6a0c435e4a00a61b4f",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xdb20d68e2e656a94e26f35d1eb724cff284aa7ce",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x24030bffb706fbdce4a7a7e601a6fd346c503f78",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xf27934ee3307843b0c1c466171eee1ab0ab0a1fb",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x9200993074a998f4205c9e7b6b06b8f9f59b4a54",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x38d4aaec6bf865cf0f8d5c94573736cce57b4f2f",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x41b61fb95a03699fbb383cb7f5935f5230c8caf8",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xb4d04efe1338bc64ca39f5a873d082d32d31cd34",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xb371bca1e66ef2486f980e63cd2f27e412c26b95",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x02b3685afae72b8b3df87204d620be1d7b5d23d0",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x03b44acef3d31adc8522640a7f1193cfa7b0e69a",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x4bb8c227780d9ce57947832a5b9ecbb70a00ebac",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xdc38a9cec7b99252aa42503ad99cf62b2bcb7b96",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x3239587d513f443df0f095f66ed1da0d12bd06aa",
+            "payoutAmount": 52.160000000000004
+        },
+        {
+            "address": "0x727222c3de6227757356728ff1806b8d7355a03f",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x186f81e772ddac842c43f1af7033aefd30e54db2",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xfd1857213569f7d4c00d2cf6d949d4a169929945",
+            "payoutAmount": 52.160000000000004
+        },
+        {
+            "address": "0xf950f839fff1c8ec65e4b9333b21e998ffdcc353",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xf5be442a0cfc371cba7e000798bac106e5609f16",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x685b29c0480cd408199cd0cbc957d92b5c281487",
+            "payoutAmount": 104.32000000000002
+        },
+        {
+            "address": "0x61007df11b087df4172ddf908aae843d29b33ae3",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x5fe281a095051af7b5915389d4506406eaaad486",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x9b4d1d011d3da41496e60bb39beaa7613731df85",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x7b0ae3958fa366c983cf71c0fd05a10e70974e62",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x0d3d21db649a28a1821d672ccb2d5fff15b626a3",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xb5305f4c047f1b114a3207251266fdb8e5ca101f",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x4477faf75af68a845fba18a72fe65d0eb3073ba1",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x98da6812e8507797b5ac62640ba52ddccee0376f",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x841b3305b75226c4485a05b0d96a35983e141755",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x160a2f6d157eac7965a62de3d76a4d6d6a459b73",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xb13947295d179b88ad60bebd09ffbcb53dc12cdb",
+            "payoutAmount": 52.160000000000004
+        },
+        {
+            "address": "0x6cea7c40c5b3948648b258910b5b1abef9b92bff",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x39f9407df9e6c5b37942729d50670dfd2b7ea15d",
+            "payoutAmount": 39.120000000000005
+        },
+        {
+            "address": "0xb37db350bac8b0751141d567b5ad0e1140cbed75",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x92e833491c3ca7a3d694ec3156904dd807c69ce1",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xe7908ddffe945b547a07cf9d61b08f8a9edb09b5",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xd8d109488f746b35772f1f06cfaba4b9de4d3cf8",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xf1e564efd401fccf24395b189517b0e3c5c977f0",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x7714386a728da229b74b9b18b15c8d96ed3b6e45",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x8dd3020a3aa18c054078b883be404b92d895c377",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xcf8a68fcaf416ca3fac34e17ee48eb59f2c25fa5",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xba9ab94eaa719a3e27aaaed16e0dcea5978f730b",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xca11fd0ac90d2eba39423a1a7bd9d79f9254f6dd",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xb328f7cd1f6b1fdf21e3bcd0f0d47f04e57c91e0",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xe60db0bc517f4ccd11b60a0319988bf88577947c",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x8386d45c0f3e41cf2ca59291067f328f5c4ab130",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x86fb8e559b6beb742e40665223d890c39ac87f94",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xc468385c846b3f6cb5225ef89dcf456305b637f2",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x25c357c7211659e61c2d2d165fc6276ad350384b",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x429fbd3cec1966661b4918bc45d18afa13999e8b",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x6877bd25c5eac7e7701a04d2b6556d8ccb7f5dd1",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xeb3a7b0b86cd513278e96a91bd559209fa4717c0",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xd46d44986725d6e6b9db9df8c2a79d6c41d1c2da",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x0abd828a2d5430ec2c9224215537d1e7955de408",
+            "payoutAmount": 65.2
+        },
+        {
+            "address": "0x8e1aa38f23707302a6da73105fcfc18aaad385d6",
+            "payoutAmount": 39.120000000000005
+        },
+        {
+            "address": "0x2a7e540f8bc07c046380fe00003e3f0c76ecd0b9",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0xf7b69900fbba645d95e806a508a01fb81169ff69",
+            "payoutAmount": 39.120000000000005
+        },
+        {
+            "address": "0xc79c0664200c0068a8798a0b6acc2be189d2adb0",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0xbe1822a6d188f8e10126f20c34102f122f1abdaf",
+            "payoutAmount": 130.40000000000003
+        },
+        {
+            "address": "0x9b0ddc1aa78615b6ef96ed8c298f5ea0d8afe5c0",
+            "payoutAmount": 26.080000000000002
+        },
+        {
+            "address": "0x3c84937c6897d0e3a19935f4a96849f8108388d8",
+            "payoutAmount": 13.040000000000001
+        },
+        {
+            "address": "0x57e85ff54676746e77d83fa49a1ab0242c3fab62",
+            "payoutAmount": 13.040000000000001
+        }
+    ],
+    "refinery":
+    [
+        {
+            "address": "0x568829d27ec0f8b45bce0466010a6503fc8bc19c",
+            "payoutAmount": 44.44554996960561
+        },
+        {
+            "address": "0xb4b4f5b12e7a711fdc663e6a0c435e4a00a61b4f",
+            "payoutAmount": 16.79406490454412
+        },
+        {
+            "address": "0x6c2716bea205410ea755573f38838bf9aadb838e",
+            "payoutAmount": 9.366894292442623
+        },
+        {
+            "address": "0x6093ef2f5b206fff2171af5bef2c506edb200470",
+            "payoutAmount": 13.258700338186387
+        },
+        {
+            "address": "0xa30ec7e864d59d706700b9cd2a4ee765d26c0d5e",
+            "payoutAmount": 10.181868223384399
+        },
+        {
+            "address": "0xc308ddadc839ed0decd03548de5364d7965ad36a",
+            "payoutAmount": 13.653394219244184
+        },
+        {
+            "address": "0xc4e400f07e2db28abc77bde462af88d14902460c",
+            "payoutAmount": 8.275384505679177
+        },
+        {
+            "address": "0xe98f5f91add287d895e0e371a84fceabee6a0f52",
+            "payoutAmount": 8.17761674921619
+        },
+        {
+            "address": "0xdaf40e84425efad47191a21cd97e95c2b4910952",
+            "payoutAmount": 7.422812938660656
+        },
+        {
+            "address": "0x749d53ae7c62abb75a5ed7e35184670bf4551164",
+            "payoutAmount": 6.455918071910078
+        },
+        {
+            "address": "0x9bda81715596c44db6d8afdedeb60231325671c4",
+            "payoutAmount": 4.228592528839714
+        },
+        {
+            "address": "0x749250538a468577c5c219a376c6ec18cafb8eb4",
+            "payoutAmount": 2.0741706188068942
+        },
+        {
+            "address": "0xf86c7a46f8a6593b313733cf9f9077b67cb7abd9",
+            "payoutAmount": 2.074146765675955
+        },
+        {
+            "address": "0xb37db350bac8b0751141d567b5ad0e1140cbed75",
+            "payoutAmount": 1.4116609795256083
+        },
+        {
+            "address": "0x30ce45636ea8b9ebc2f2208ce817944a42ffd2c5",
+            "payoutAmount": 0.0822972208451783
+        },
+        {
+            "address": "0x713964b46c23271ddfab5166e861651faf1bb461",
+            "payoutAmount": 68.99419140324791
+        },
+        {
+            "address": "0x8d742e9cccd2fa4a59e94dccc75c73ca8d5d190d",
+            "payoutAmount": 46.10802298712123
+        },
+        {
+            "address": "0x6f08d8d2260cd3008171984809a92a0188bc7942",
+            "payoutAmount": 38.96680572733046
+        },
+        {
+            "address": "0xc3713c3c33f44930b597981c256db198ace86042",
+            "payoutAmount": 37.55817183893645
+        },
+        {
+            "address": "0x9fd6b3759cd2758cfd4c13565ea621c4c0677648",
+            "payoutAmount": 35.89823549953632
+        },
+        {
+            "address": "0xd76a786a215010cff7e6af0901c38e1b83c2b656",
+            "payoutAmount": 30.695947864575682
+        },
+        {
+            "address": "0x1ddecbbc13d9c5af83d1bed6b1a97805d58ba478",
+            "payoutAmount": 30.60423415056745
+        },
+        {
+            "address": "0xdb39e5bde2a03c85d079781a23e35f94c2af12c0",
+            "payoutAmount": 26.449619433618828
+        },
+        {
+            "address": "0xaf10601fac69ec1b1bd0067587a2ca6098b5fcaa",
+            "payoutAmount": 24.487733382971193
+        },
+        {
+            "address": "0x9331b9b2238156a199060e5251fdbcd67d31095a",
+            "payoutAmount": 24.100225381985602
+        },
+        {
+            "address": "0x811250a0c7d12563051610e424e1afd232c8ad8c",
+            "payoutAmount": 23.566050043452414
+        },
+        {
+            "address": "0x6b31eeccd068a97aa643d58fe7f4d98ea70d5271",
+            "payoutAmount": 23.241689257688012
+        },
+        {
+            "address": "0x00c9013698a9f5d65c9503fc942fbb9c2469dc01",
+            "payoutAmount": 21.320778164193783
+        },
+        {
+            "address": "0x0b1a6d615ee93c957f7969b0d715bbb199a99685",
+            "payoutAmount": 20.988457746177037
+        },
+        {
+            "address": "0xd9e5e4173e852522495702f8b01e295c41a27bfb",
+            "payoutAmount": 20.583543848107837
+        },
+        {
+            "address": "0x441d4a0b6257a01d3c568267a893f4b3aa53483f",
+            "payoutAmount": 19.36700265362728
+        },
+        {
+            "address": "0x9875ef95c9446104a1f04f54f8ee6d9ea9012169",
+            "payoutAmount": 19.05971319032258
+        },
+        {
+            "address": "0x231d26dee15429869e738918b34ebfd905a5af01",
+            "payoutAmount": 18.99022549166761
+        },
+        {
+            "address": "0x9ae61d6260e696538e69b9cac834bcde0d65bbac",
+            "payoutAmount": 18.702116983677158
+        },
+        {
+            "address": "0x03416c0440f80c86b374dd59e7fceb2f58d3b43c",
+            "payoutAmount": 18.700763260837025
+        },
+        {
+            "address": "0xc7a971a6d547ecaa24989359dae944e307cbee93",
+            "payoutAmount": 18.26580309102106
+        },
+        {
+            "address": "0xebd960d7ffc6917ffcf3578c5615ba555fc7cb16",
+            "payoutAmount": 18.046450062868995
+        },
+        {
+            "address": "0xbcfb4694274f448ac2cc578130ea01c4807dcaed",
+            "payoutAmount": 17.351035865839737
+        },
+        {
+            "address": "0x47a0a5268c06aba1f43f921be644b53d02eca7e3",
+            "payoutAmount": 17.034696739514274
+        },
+        {
+            "address": "0x505c8e5fff46c138de7537bf918310ce565cfe81",
+            "payoutAmount": 16.58769927161852
+        },
+        {
+            "address": "0xb7b238216a3bbf5fbdbda37b5cdd269fb1db3840",
+            "payoutAmount": 16.148529311962143
+        },
+        {
+            "address": "0x64edca441aae7b3dda4b23f2cd6546c501ab894f",
+            "payoutAmount": 15.731321053974328
+        },
+        {
+            "address": "0xb14db4b6e65149ecde04e8a30a0b1c8a553eccff",
+            "payoutAmount": 15.181914919074643
+        },
+        {
+            "address": "0xcdeceeaa985aef51a45c79418f3ec9254c22e680",
+            "payoutAmount": 15.067597774162472
+        },
+        {
+            "address": "0xcf54339ae3f907674f130f364151b6ae8191ed04",
+            "payoutAmount": 14.646985950632573
+        },
+        {
+            "address": "0x2f239a1561d8c92a2d22884dc5d314e77eebb39a",
+            "payoutAmount": 14.588781957221746
+        },
+        {
+            "address": "0x14ef5801667c61292102fbfd3901938483791798",
+            "payoutAmount": 14.009219987260552
+        },
+        {
+            "address": "0x02f4b6e356e5868a3a3a8e0ac0e259e24cad21dc",
+            "payoutAmount": 13.859574060177914
+        },
+        {
+            "address": "0x1866a51906d0fe1fd8ec2f9c51afa3fbfb26d90c",
+            "payoutAmount": 13.72100482758996
+        },
+        {
+            "address": "0x8bd45ecc85ca471e2b7f88ff6584a1b45c13d8bb",
+            "payoutAmount": 13.690167656044656
+        },
+        {
+            "address": "0xb56625e3d560c346cc1b53072850f53198215a9f",
+            "payoutAmount": 13.340341005408673
+        },
+        {
+            "address": "0x18654c8aeb47ef7e3ee51b1ca84eceee4545c7cc",
+            "payoutAmount": 12.963612359931354
+        },
+        {
+            "address": "0x60848ba92253ea7ea2fab2cf7c66037a23292576",
+            "payoutAmount": 12.51914271087723
+        },
+        {
+            "address": "0x5dd979fea86c6d5bae02df6b9ca2b2b0aee9b0a2",
+            "payoutAmount": 12.48062530112869
+        },
+        {
+            "address": "0xc4b4a7facbb13886f13e36b1074a23c3c04aeafe",
+            "payoutAmount": 12.479579799470969
+        },
+        {
+            "address": "0xbba0bf9dd7bd7442714b2975da3db99b1583f1e6",
+            "payoutAmount": 12.05138134074105
+        },
+        {
+            "address": "0x0f588b6c343d1dd98c00385cb83ad8ba2ce6d281",
+            "payoutAmount": 11.97533904825117
+        },
+        {
+            "address": "0xf2787bfd9525c5db0d8715785e85357838254a8b",
+            "payoutAmount": 11.910784180498418
+        },
+        {
+            "address": "0x2da6c8794fcfd5a4f18f077b769dcdd0cd9aa0cf",
+            "payoutAmount": 11.844603025012148
+        },
+        {
+            "address": "0x1ebc4fd0981e44e68cd053f6408ddf3f9c5fb197",
+            "payoutAmount": 11.200427694708159
+        },
+        {
+            "address": "0x2a4cdc9bbd937023a95e50185c0c027647f5a7b5",
+            "payoutAmount": 11.121783438550676
+        },
+        {
+            "address": "0x4e039e818ae3c48f84cfc3c1e6dc1963f4c98a5a",
+            "payoutAmount": 11.010269614649433
+        },
+        {
+            "address": "0x3c66a44e68282657bafec2e34b046fc1b29d2ac2",
+            "payoutAmount": 10.936975926492497
+        },
+        {
+            "address": "0x01cb4d5c77a64d1951115f73617b3edc46c710e6",
+            "payoutAmount": 10.537955701188864
+        },
+        {
+            "address": "0xe4acf10e057c7042934209a86dfa8e540951950d",
+            "payoutAmount": 10.394829350775288
+        },
+        {
+            "address": "0xd1681cb28a14db04e514674e92e0bb6c040e4672",
+            "payoutAmount": 10.32266926469289
+        },
+        {
+            "address": "0xb2285f5469c0f8eefb6e2dfb90f676c30300fcd7",
+            "payoutAmount": 10.173683252327917
+        },
+        {
+            "address": "0xdc53da752e73507cd04a2954a41079b22921e10c",
+            "payoutAmount": 10.11269534686334
+        },
+        {
+            "address": "0xf5e763b7c419654637e754edb871721e7a3243d8",
+            "payoutAmount": 10.065527306816575
+        },
+        {
+            "address": "0x3651be1d32799bfe736f195458856ad30ac0e609",
+            "payoutAmount": 9.759932126407818
+        },
+        {
+            "address": "0x42e1503de159aeebc0900844c3d32aa63c633d1f",
+            "payoutAmount": 9.752932168070268
+        },
+        {
+            "address": "0x88056d38f96c72e75cf5b30a1b4ebb597debd5f2",
+            "payoutAmount": 9.651465805505865
+        },
+        {
+            "address": "0x428a10825e3529d95df8c5b841694318ca95446f",
+            "payoutAmount": 9.476002270387605
+        },
+        {
+            "address": "0x4a2728455992bdcaed134d1d35948c0af08d6ae4",
+            "payoutAmount": 9.440730429734547
+        },
+        {
+            "address": "0xf4817486e035d66cdbfcb09ba3e1c0af142b0fe6",
+            "payoutAmount": 9.236809593844225
+        },
+        {
+            "address": "0x18198fad4209ec0e72ce8e161e24bda3ccbf270f",
+            "payoutAmount": 9.045494907603228
+        },
+        {
+            "address": "0xfd995c70c8a1016ad570abef96dc8c8c586a8acd",
+            "payoutAmount": 8.81544840729999
+        },
+        {
+            "address": "0x41b08af514253be684dc1bdea12c3b175c092c56",
+            "payoutAmount": 8.777010511635721
+        },
+        {
+            "address": "0x058c08a7e90572da987ef5fefa9eb1510a70c6cc",
+            "payoutAmount": 8.688058431498916
+        },
+        {
+            "address": "0x351318471bc2e19371638375619c81dc3db21821",
+            "payoutAmount": 8.66114267915276
+        },
+        {
+            "address": "0x42eaa55f3d23fcf734aa6d5a44837f6aa8ace7fe",
+            "payoutAmount": 8.608726571413175
+        },
+        {
+            "address": "0xd6a74fb6d3400b9a9fd88676416700acd03d7184",
+            "payoutAmount": 8.559425433469336
+        },
+        {
+            "address": "0x08291df0a3d7241734be2a13bcbb802b3afa1ee8",
+            "payoutAmount": 8.53554970142134
+        },
+        {
+            "address": "0x0698ea9c4555b3593b97804f8556067d8df63fc2",
+            "payoutAmount": 8.20673106391914
+        },
+        {
+            "address": "0x13529e29780963a007cff3738cc928442fcbee1f",
+            "payoutAmount": 8.117619800948765
+        },
+        {
+            "address": "0x49146af484d8486fd1a1427f7118f5da75d5868f",
+            "payoutAmount": 8.103828683726867
+        },
+        {
+            "address": "0xc3e7e1448a9f42ff4e6b9461623d1d2c4c9f8849",
+            "payoutAmount": 8.070286433324148
+        },
+        {
+            "address": "0x1b6ee34ebd14f3e6b1c303ad4496d1b1b618f5ae",
+            "payoutAmount": 7.9669337783107785
+        },
+        {
+            "address": "0x5845bfe48a0be2fb4aa12a376099bdf3c00cae3b",
+            "payoutAmount": 7.929463589147558
+        },
+        {
+            "address": "0x275915abfbfddd183ae933df799ffbd05e194c20",
+            "payoutAmount": 7.923872541034563
+        },
+        {
+            "address": "0xc493b5465cb39d16809656cec8a935d1053ed113",
+            "payoutAmount": 7.889858122674467
+        },
+        {
+            "address": "0x3239587d513f443df0f095f66ed1da0d12bd06aa",
+            "payoutAmount": 7.844706519033195
+        },
+        {
+            "address": "0x54609c8f84fc4b41e9403aa5e47748f44dd05ff3",
+            "payoutAmount": 7.769863547703896
+        },
+        {
+            "address": "0x4d1b862617bd4d3f5236fbb52aaaf31fac31f61b",
+            "payoutAmount": 7.621787080346025
+        },
+        {
+            "address": "0x9d7cf7423b9422bfda62b369beea0dfd1a70d34e",
+            "payoutAmount": 7.606602399614787
+        },
+        {
+            "address": "0xd1bbee4e031459d74c23039877dac8933878a60e",
+            "payoutAmount": 7.2569568912731794
+        },
+        {
+            "address": "0xa67793fe7932c36079ccc7226962223fbe647911",
+            "payoutAmount": 6.850955168673755
+        },
+        {
+            "address": "0xaf834bb0015e5e1f0164c27253757ff95933f1a6",
+            "payoutAmount": 6.567372784764264
+        },
+        {
+            "address": "0x193d337def7c1074f1aa2e5c122bc4c1a4149369",
+            "payoutAmount": 6.56724875373807
+        },
+        {
+            "address": "0x8103400e5898ef5394a33eab3e2fe3d5506d1fe3",
+            "payoutAmount": 6.40664436984418
+        },
+        {
+            "address": "0x805a7bf57739eb5f0b3a56fe89359c4f9c4e69a5",
+            "payoutAmount": 6.258502540318344
+        },
+        {
+            "address": "0xae82ac59fd5ef9fd641bad02158ba5832fac637e",
+            "payoutAmount": 6.205269174514059
+        },
+        {
+            "address": "0x7b0c79a9da9dd8caa9bee4ba2c3554e13ac793dd",
+            "payoutAmount": 6.196792005110366
+        },
+        {
+            "address": "0x0374ead80c03ea6c91c946ab8a7a68fcb009482d",
+            "payoutAmount": 6.136811943536288
+        },
+        {
+            "address": "0xf44a513bc4e18b59f123cec7657332ddd1f0b01b",
+            "payoutAmount": 5.8174578035024025
+        },
+        {
+            "address": "0x562ed81e568d860d2b7ce395a6ae364398e2a100",
+            "payoutAmount": 5.7386150961318
+        },
+        {
+            "address": "0xdf34f404e180949bd303bb2b55056358acb366f7",
+            "payoutAmount": 5.620009293293133
+        },
+        {
+            "address": "0x54d1779ef28efb4cc0c24e3a0ef43e8a3862b873",
+            "payoutAmount": 5.489148144833196
+        },
+        {
+            "address": "0x4ebdb38e3c5bb47ddceba8fa965fc22ce6182f7d",
+            "payoutAmount": 5.467270279197272
+        },
+        {
+            "address": "0xbcad175b54cb562af8d13994e144869f7e47fbe3",
+            "payoutAmount": 5.450734040703319
+        },
+        {
+            "address": "0xf239abe92956bbe4cfd20ef62d29a963fd5a684d",
+            "payoutAmount": 5.416278039261397
+        },
+        {
+            "address": "0x434a9e52c76e69f4b7df859d5ba46f488318f579",
+            "payoutAmount": 5.348487076250976
+        },
+        {
+            "address": "0xc111c3f42ff91b7d7500687cbf77b11dbf0961a0",
+            "payoutAmount": 5.25646152080892
+        },
+        {
+            "address": "0x9d1861d9e1b20deec5a3b8d203a44c6e4da8b1a0",
+            "payoutAmount": 5.166816126636215
+        },
+        {
+            "address": "0x1adcebf83500a1f50efb182f76667759a98b7b0b",
+            "payoutAmount": 5.138028533950763
+        },
+        {
+            "address": "0x0abd828a2d5430ec2c9224215537d1e7955de408",
+            "payoutAmount": 5.092383223246928
+        },
+        {
+            "address": "0x7b7ee205fa9aabf6c5a0d17da6352c31df60cc5e",
+            "payoutAmount": 5.068421165544408
+        },
+        {
+            "address": "0x02b3685afae72b8b3df87204d620be1d7b5d23d0",
+            "payoutAmount": 5.057733694002618
+        },
+        {
+            "address": "0x20d1c21e66da31bd9f85198129d6b87567336754",
+            "payoutAmount": 5.0472299803173195
+        },
+        {
+            "address": "0xa11f9b95ca2fee1c9bbd9fdf03f9da93131e6083",
+            "payoutAmount": 5.04527911884787
+        },
+        {
+            "address": "0x11d0368bdd4206930f449466bcc00a6cd104d234",
+            "payoutAmount": 5.020501334190054
+        },
+        {
+            "address": "0x830b161fc42de0e4e6c2b071db609d94c3d35245",
+            "payoutAmount": 5.012493375716593
+        },
+        {
+            "address": "0x1be58d7a4d534bd6ea0f42a8088f76b83b593d9f",
+            "payoutAmount": 4.919765000173467
+        },
+        {
+            "address": "0x3c04bc3fbb205ad3366d205f285dee5cdb35f5b3",
+            "payoutAmount": 4.900036754301479
+        },
+        {
+            "address": "0xb027818c1209dd4d8e6b7d172c61ef9840724a1d",
+            "payoutAmount": 4.671942557095401
+        },
+        {
+            "address": "0x37d3b857e989482e0fb3093474d28cae76a67194",
+            "payoutAmount": 4.634104982945991
+        },
+        {
+            "address": "0x052ce953bfa80ccac9eb618b5112cfe431f7c6bb",
+            "payoutAmount": 4.582725106182296
+        },
+        {
+            "address": "0x5d9365357c0e3326371741907908ec1e867fc45a",
+            "payoutAmount": 4.562498857760394
+        },
+        {
+            "address": "0x5acd29efdac786d4f5d9797158e42d2574f0d76e",
+            "payoutAmount": 4.560521955891798
+        },
+        {
+            "address": "0xab7cae1cd8f19c189cee23948ebef36407da2a8e",
+            "payoutAmount": 4.459871452306961
+        },
+        {
+            "address": "0x06e70222c9f47baa4e5376a2f187be27e7e5b9d5",
+            "payoutAmount": 4.355832665908744
+        },
+        {
+            "address": "0xf66167e6a4b617fc2583083dc5534544b0c8ed11",
+            "payoutAmount": 4.2340289613831725
+        },
+        {
+            "address": "0x863b3c46f675c57f4b8870b1fc9b41c261af5273",
+            "payoutAmount": 4.213422571902211
+        },
+        {
+            "address": "0x5ee9ba93f51ee1340cceda7b8fa8cce137c0873c",
+            "payoutAmount": 4.184568533710872
+        },
+        {
+            "address": "0xc0a0544ff5384109602b962d0701c91afdab4bb6",
+            "payoutAmount": 4.163362377762913
+        },
+        {
+            "address": "0x0027f49f3b31789638a6e0d867bac10712fba7df",
+            "payoutAmount": 4.151636784150827
+        },
+        {
+            "address": "0x61c4244966a602312efa739b2b3c1177c67d66cf",
+            "payoutAmount": 4.137477589642601
+        },
+        {
+            "address": "0xfa3da617a41b2f5dd50be99cc076f68f118ad566",
+            "payoutAmount": 4.10870502680389
+        },
+        {
+            "address": "0xe579b88afa178806d8a60f87a1515e2cd5a1889d",
+            "payoutAmount": 4.079777371576085
+        },
+        {
+            "address": "0x0e7d599162bfbc6951ececeb5d895e332556beda",
+            "payoutAmount": 4.063065720667452
+        },
+        {
+            "address": "0x3cb9869c52a28e636b4e9eaf9c389af68777b78b",
+            "payoutAmount": 3.978314286628568
+        },
+        {
+            "address": "0x2e84c4ef84190c8ed4f19f3ce9ff04c8fcd528d9",
+            "payoutAmount": 3.866100535276569
+        },
+        {
+            "address": "0x18224c0829ed8c34ff8c4970aeb9d5d0882ae1eb",
+            "payoutAmount": 3.8214620009618816
+        },
+        {
+            "address": "0xc4d7a3ec685dfdbebce6f7d626492da094c575fa",
+            "payoutAmount": 3.7723785319749275
+        },
+        {
+            "address": "0xf48d2d850d265f37782f1438ea16168d597b7473",
+            "payoutAmount": 3.7361069699396525
+        },
+        {
+            "address": "0x4532bbea6ec2df2b914df9c3f03d1d19f30701b1",
+            "payoutAmount": 3.695508118778388
+        },
+        {
+            "address": "0x5c0f79108749e3f82e1bcbf4baef1887b1f1d32b",
+            "payoutAmount": 3.66443938264761
+        },
+        {
+            "address": "0x7ff093c6cf7e53c1c4d1a8183a8a5107fd85bd71",
+            "payoutAmount": 3.6244840907373943
+        },
+        {
+            "address": "0x1038227471a83eade7d33341831d08bfedbd214a",
+            "payoutAmount": 3.5454175012220595
+        },
+        {
+            "address": "0xc50e2a4c502c6c52d9a279efcf8d179447c07a46",
+            "payoutAmount": 3.4590490120464144
+        },
+        {
+            "address": "0xc860c924cbd12adc136668c477594faeeb0f26df",
+            "payoutAmount": 3.457422362483378
+        },
+        {
+            "address": "0x88f91f639d183965748e7f8c3b8bc23f20b60104",
+            "payoutAmount": 3.45464322018013
+        },
+        {
+            "address": "0x740385dcc709a3755d1229f86acb0bdeb28e2c46",
+            "payoutAmount": 3.4265821109203305
+        },
+        {
+            "address": "0xc445ae8a98b330f4ff42c78a81711b320518a72c",
+            "payoutAmount": 3.3556420475282063
+        },
+        {
+            "address": "0x1fc93dd68b38202247f4217e123a05acc76f51b6",
+            "payoutAmount": 3.3172701818247288
+        },
+        {
+            "address": "0x65c3f6c9bbb1ffe44ff98cb9f51c241463d0a383",
+            "payoutAmount": 3.2875573807064935
+        },
+        {
+            "address": "0x98ca6472935792ae512aea5730fd6c35dbf36df8",
+            "payoutAmount": 3.262822641595265
+        },
+        {
+            "address": "0x14c0e87c56b49a4332da51c9c22a6c15c535793d",
+            "payoutAmount": 3.2432969281053663
+        },
+        {
+            "address": "0xba1906b47a2d3f56c60f74a8c57a19e557e17f16",
+            "payoutAmount": 3.199132900340769
+        },
+        {
+            "address": "0xea304902b7711e07e604544596959d4a6755eab1",
+            "payoutAmount": 3.1884162088970824
+        },
+        {
+            "address": "0x186f81e772ddac842c43f1af7033aefd30e54db2",
+            "payoutAmount": 3.183122112536194
+        },
+        {
+            "address": "0x54c20f77c5e19dcd8cc5ef959bc9cc6c374fd07f",
+            "payoutAmount": 3.1316683968867207
+        },
+        {
+            "address": "0x5c1eb08386dcb6cde210ade2fd0de7e1c2a0bc43",
+            "payoutAmount": 3.122947184197468
+        },
+        {
+            "address": "0x29bea518b6825c81ac02d387fe4c80d3e2339ba0",
+            "payoutAmount": 3.0294069859406454
+        },
+        {
+            "address": "0x134724c1fa5fd791be775c582da8d3b74a262ea6",
+            "payoutAmount": 3.0160565567726003
+        },
+        {
+            "address": "0xa269c2f643fa69a9dc53ae3ccc1cfb36bb71d061",
+            "payoutAmount": 3.0135531151858888
+        },
+        {
+            "address": "0x640810fcbb69e70f31f831d0d8d43eb84d9b7486",
+            "payoutAmount": 3.009919471775045
+        },
+        {
+            "address": "0x1fd5e6bd6b5415af4903225eaa0e4e7500fb4558",
+            "payoutAmount": 2.9843573801628582
+        },
+        {
+            "address": "0x272b144a59c15b98565b3e8e6b5b0a8fb043423d",
+            "payoutAmount": 2.972164888721677
+        },
+        {
+            "address": "0x1ce1d70523bf3660d66eaff6aa3aa21d86671b77",
+            "payoutAmount": 2.948416379958505
+        },
+        {
+            "address": "0x8194429fbc5678900910ab649466c6d2bca39444",
+            "payoutAmount": 2.9296391629308216
+        },
+        {
+            "address": "0x0a49c011eeab9f4f83a04c48f3131b42d16985a8",
+            "payoutAmount": 2.9250177588065176
+        },
+        {
+            "address": "0xcf1ce9c790285201313327a38efafda3ef8416f5",
+            "payoutAmount": 2.8898639865600226
+        },
+        {
+            "address": "0x4bb1bf17e85a182ec2e79a7e4bbdf4ab318c4cf0",
+            "payoutAmount": 2.8618270788052653
+        },
+        {
+            "address": "0x02e34f367a1dbdc91c7063d375e0a18e6f52a564",
+            "payoutAmount": 2.8488902389534148
+        },
+        {
+            "address": "0x518dd7f0a40d8266fc616b4d7da80fe3d5cb17fa",
+            "payoutAmount": 2.775087472428052
+        },
+        {
+            "address": "0x771e3b8762118ebc3f9fd228e7b3433231f7af4c",
+            "payoutAmount": 2.737751432076639
+        },
+        {
+            "address": "0xf74a81b3a3bd903763c371b9c35edbf47abc2904",
+            "payoutAmount": 2.718375599786953
+        },
+        {
+            "address": "0x08fc14a4441049ec84cd4db428429293b13a4b66",
+            "payoutAmount": 2.6974824047193393
+        },
+        {
+            "address": "0xd1b1be603e5d33d717a56c2d6ac514bd1d17e412",
+            "payoutAmount": 2.683393787194244
+        },
+        {
+            "address": "0x257caf977524f2ae37e5383d6380ce287bd29c17",
+            "payoutAmount": 2.6824309162480047
+        },
+        {
+            "address": "0x743e1fe7097280d6797fb932f60da7594805d475",
+            "payoutAmount": 2.6745295399187827
+        },
+        {
+            "address": "0xd4834dac33389c6b4991083f548000ebc17f2a65",
+            "payoutAmount": 2.669152982703773
+        },
+        {
+            "address": "0x09f5a08616862058ecaf19378ec7ad4c70526321",
+            "payoutAmount": 2.6246983362394336
+        },
+        {
+            "address": "0x9fb16f1669545c3db1667aba486046846d72addb",
+            "payoutAmount": 2.5934336509725147
+        },
+        {
+            "address": "0x80db8455cb7f0d79527da17b98dbd10b336b8b70",
+            "payoutAmount": 2.581658279346336
+        },
+        {
+            "address": "0x629a10fbb05fbd8c627a5bd135b492ae094163fd",
+            "payoutAmount": 2.5772987951377497
+        },
+        {
+            "address": "0x15082c89fe9b27aabb9a4175b3ab078a89e92c1a",
+            "payoutAmount": 2.5740901882195337
+        },
+        {
+            "address": "0xac1a38538bb49efc0d1b5dbc486b96108130bfa8",
+            "payoutAmount": 2.565126996905251
+        },
+        {
+            "address": "0x5e88209d620db0f9e2fbbe17b41689c4b8a4348d",
+            "payoutAmount": 2.5644231064510885
+        },
+        {
+            "address": "0x2ad133c659c9dda5eaedde9f65636b44aa144b4b",
+            "payoutAmount": 2.563956773982748
+        },
+        {
+            "address": "0xb58a01cdd26aae2ff297d04558a19fe7d69a33f9",
+            "payoutAmount": 2.532888995753705
+        },
+        {
+            "address": "0x450dc6a0caa2ff2a040012851a4afb97cb18858c",
+            "payoutAmount": 2.5233894530025465
+        },
+        {
+            "address": "0xd0a358f1827aa34518ce60feb9d69e6495e502b5",
+            "payoutAmount": 2.5216248331067
+        },
+        {
+            "address": "0xc4f7482c81d7d94a9450f12000b0d8229ce37e2e",
+            "payoutAmount": 2.512994188775734
+        },
+        {
+            "address": "0xceebfb7d3cad5a2140bc6f6a2322f1145d14f290",
+            "payoutAmount": 2.474186567147422
+        },
+        {
+            "address": "0xcd75c47b2ec49e92cc673269b53d1a75d023dfc9",
+            "payoutAmount": 2.464733086956364
+        },
+        {
+            "address": "0x208d179e0c9a1ab7d1bcafb966cdd8328d1c07fa",
+            "payoutAmount": 2.4289634359096177
+        },
+        {
+            "address": "0x67743053d7abad5ebdf4fb52b7c8dd0e9d3ce754",
+            "payoutAmount": 2.3891012171930917
+        },
+        {
+            "address": "0xa812327c064314667fd7f7c2a260fefa0c57cb7a",
+            "payoutAmount": 2.3816624516454366
+        },
+        {
+            "address": "0x1c49d451a82fbf790d592fc4f739b5b33d753186",
+            "payoutAmount": 2.374157961436029
+        },
+        {
+            "address": "0xef5209d976a419a084b5a292e50dac6bb9ddfc88",
+            "payoutAmount": 2.3699612198106905
+        },
+        {
+            "address": "0x6d5098726073f83939a3641fbdd18fd085b9c0dd",
+            "payoutAmount": 2.348919756267559
+        },
+        {
+            "address": "0x4557f2fe7e1284abfa2a20f14015f113e5b65f1b",
+            "payoutAmount": 2.326174211961466
+        },
+        {
+            "address": "0x614282430a84ba4ec4187c31b2c8417bed92e9c1",
+            "payoutAmount": 2.317131651664634
+        },
+        {
+            "address": "0x9d2f19a1ea55d99d0380dd892144413da07668c9",
+            "payoutAmount": 2.3126104677156945
+        },
+        {
+            "address": "0x78b4a8eb2305cf0d993ed5baf0b1820025aef148",
+            "payoutAmount": 2.301812763908411
+        },
+        {
+            "address": "0xfb44304b6b2810e9c42dac745c11542f9f3a5c4d",
+            "payoutAmount": 2.273504114371703
+        },
+        {
+            "address": "0x0a2eb412cb31d4b2e38741603ad25645ad3d678a",
+            "payoutAmount": 2.248294649845578
+        },
+        {
+            "address": "0xd75b9e8e6aa4b8f90cf2ac3b84e83157c3653e5f",
+            "payoutAmount": 2.2434080713771154
+        },
+        {
+            "address": "0x173bb3cfee874d7b2063312c87edb275d0d656d2",
+            "payoutAmount": 2.2342575813284555
+        },
+        {
+            "address": "0xcc012b9b86a2effc894c73f87340effc3161dd32",
+            "payoutAmount": 2.230905280761962
+        },
+        {
+            "address": "0xb25d2dbc5912ddf785eab61271c1a926682f5a4a",
+            "payoutAmount": 2.209094184371157
+        },
+        {
+            "address": "0x7370cb588f0fe3565a1d651ade4d1344f0f3478f",
+            "payoutAmount": 2.2089954493525066
+        },
+        {
+            "address": "0xf8625e7edb89db715aca547b13d3f474e220ede6",
+            "payoutAmount": 2.1855788220188925
+        },
+        {
+            "address": "0xaf55403fd7c0b1911a3400533df353558acd74d3",
+            "payoutAmount": 2.148365984844258
+        },
+        {
+            "address": "0x9477b3d9a1f7ee88240710b178f622ea8e11ec2b",
+            "payoutAmount": 2.1262512995748564
+        },
+        {
+            "address": "0x462c59f945d2bd971965755ec87569cc68aca0da",
+            "payoutAmount": 2.0879246736485344
+        },
+        {
+            "address": "0xcb7e5d07a004da610f31530abd6cd1c49af02fe8",
+            "payoutAmount": 2.0426837413335672
+        },
+        {
+            "address": "0x115ef747894a94495016b0f98eec80fc94da4bb7",
+            "payoutAmount": 2.040130451650784
+        },
+        {
+            "address": "0xa6aca14f07708e8ce9c706eb20a224153402d30d",
+            "payoutAmount": 2.029389710622621
+        },
+        {
+            "address": "0x96c7a39f3c87f3b0dca6ea27f5f54354d38a0fa6",
+            "payoutAmount": 2.023113320261391
+        },
+        {
+            "address": "0xf46288c820c6cc64e09a59b59049eff4c9fa6b82",
+            "payoutAmount": 1.931537296059888
+        },
+        {
+            "address": "0xc2fc360ebe63b52c67371788946d7ba482a24ac5",
+            "payoutAmount": 1.9254835898108127
+        },
+        {
+            "address": "0x138b0b26a3afade66553faa4eeec0159f383e5c5",
+            "payoutAmount": 1.9187911964049154
+        },
+        {
+            "address": "0x1d0c4276fa7e277d1dbc6d6bb3d65bfeaccbec78",
+            "payoutAmount": 1.8914811345329459
+        },
+        {
+            "address": "0x5a2de8915ba93e20f08278783fa5d55986fd4cbc",
+            "payoutAmount": 1.8871451208391137
+        },
+        {
+            "address": "0xf623cae9ec057accbf43f576499a5d325fa44168",
+            "payoutAmount": 1.8656438244100528
+        },
+        {
+            "address": "0x622ac4112a92d78ec37327bf09f45673582be627",
+            "payoutAmount": 1.8469089600468505
+        },
+        {
+            "address": "0x3545aae1a7b96422c9003c63818975ab846bec03",
+            "payoutAmount": 1.843205329219667
+        },
+        {
+            "address": "0xe41395822065dc3535a97116485312b44603b289",
+            "payoutAmount": 1.842293965440727
+        },
+        {
+            "address": "0x1a24870c148061726fb169c35f66dff8dff2bdf4",
+            "payoutAmount": 1.8089730971448181
+        },
+        {
+            "address": "0xdbf936287cfdbfe86c2c994f7e5cd581bcdba923",
+            "payoutAmount": 1.7792536251819253
+        },
+        {
+            "address": "0xc5b1fb621695a4c28224785ff2f1cc2535d3a4f4",
+            "payoutAmount": 1.749682831105838
+        },
+        {
+            "address": "0xcfe66928d46de3953b21dbadb23f56ea9a61c061",
+            "payoutAmount": 1.7399136524413383
+        },
+        {
+            "address": "0x665340de5572342a04d0c07ab8681fce9cfe2a28",
+            "payoutAmount": 1.7307022222585164
+        },
+        {
+            "address": "0xdfd3de51ab47102064e32b79e1ebc7e076eef3b0",
+            "payoutAmount": 1.7119168662355708
+        },
+        {
+            "address": "0x245961d0fa1ab688b93a5d8532ca22eeeeb890db",
+            "payoutAmount": 1.675442220444577
+        },
+        {
+            "address": "0xc63f352651b4582979583eaa288c8690536a0b58",
+            "payoutAmount": 1.6721952198724495
+        },
+        {
+            "address": "0xafd9509853c000f3320c29d97e654bb2769d703b",
+            "payoutAmount": 1.6684740032162677
+        },
+        {
+            "address": "0xbd24891e9d25cef0abe7c9a41996886e7eb43b28",
+            "payoutAmount": 1.6613889388626384
+        },
+        {
+            "address": "0x8d2374e6c8ee3750eac13d6a6b0bce9fbdcc7396",
+            "payoutAmount": 1.6566601827556369
+        },
+        {
+            "address": "0xc67c228c248915f71c4570246a41954c190d7beb",
+            "payoutAmount": 1.6290645897365534
+        },
+        {
+            "address": "0xcdd8203211c09ea31defad04b5e884e00ede1061",
+            "payoutAmount": 1.6223607692696986
+        },
+        {
+            "address": "0x06651a6c45c7716f9a532ac6263f1c7e54d5ef8b",
+            "payoutAmount": 1.6210498743038713
+        },
+        {
+            "address": "0x120417233d9cc75e9855ebe3e0d33020a98d107e",
+            "payoutAmount": 1.6052701348457714
+        },
+        {
+            "address": "0xfe40c0f8c6e9072e00118f0a4576408c058a570a",
+            "payoutAmount": 1.6022280330221184
+        },
+        {
+            "address": "0x8900cb2a4b683e08eb98d5524382ff612d77b48a",
+            "payoutAmount": 1.5795113681880706
+        },
+        {
+            "address": "0xd5b9a0c1d79c4ab378621676b943f08e086551ca",
+            "payoutAmount": 1.5697762121726058
+        },
+        {
+            "address": "0x5153184413531e48d30a688491f5081619461613",
+            "payoutAmount": 1.556980186683272
+        },
+        {
+            "address": "0xb5e9f18336f3be5ba9f64cc3665927bd123b862b",
+            "payoutAmount": 1.5515149339806849
+        },
+        {
+            "address": "0x0cfb61a40864506d3d4c75d5ee49bdd5f40dc125",
+            "payoutAmount": 1.538770083056697
+        },
+        {
+            "address": "0x8946fee820903ba401b2d9e367d9ea1dd3320373",
+            "payoutAmount": 1.5362514492615176
+        },
+        {
+            "address": "0x3f7e5ed7fc574f9590a455464dfe7a3a8451f4ee",
+            "payoutAmount": 1.532762090326784
+        },
+        {
+            "address": "0x85ad24f21f453be05fb9a675ccc10187d451ab29",
+            "payoutAmount": 1.4940558924685559
+        },
+        {
+            "address": "0x85b2657af7767f56c2e00f4ec2d4e496673303a5",
+            "payoutAmount": 1.4722592787803603
+        },
+        {
+            "address": "0xf7b3e414cf02e1fb783e58a79ad9e5d4713196df",
+            "payoutAmount": 1.470793312139715
+        },
+        {
+            "address": "0x9d68bb30fb9913752efa1a62224405d616d222fa",
+            "payoutAmount": 1.4624680393494296
+        },
+        {
+            "address": "0x554ea6fcfd101cb05343ce931a1e45c28254cfa4",
+            "payoutAmount": 1.448542089040578
+        },
+        {
+            "address": "0xa9f7405c67f97b6a2a71b7237bceffd4ac0c51bf",
+            "payoutAmount": 1.4466352026694098
+        },
+        {
+            "address": "0x105e0c3655e7eb641b01af65ed46612c944aecc7",
+            "payoutAmount": 1.440783563098338
+        },
+        {
+            "address": "0x96d2043f556d8a4311b71278c8b1792f7a87c052",
+            "payoutAmount": 1.4301760634383145
+        },
+        {
+            "address": "0x52acc961a77f7958f632c042d05465705bb19023",
+            "payoutAmount": 1.4230929742220957
+        },
+        {
+            "address": "0x8ff946337fe90bbcf52f0605152e91da63348d58",
+            "payoutAmount": 1.4216865465774355
+        },
+        {
+            "address": "0xeb3f3c5c868ec9262d9ecbb64a148722dc239c9d",
+            "payoutAmount": 1.411257677011132
+        },
+        {
+            "address": "0x475c33afd1ff20d7808b1e153559a93c9242bfeb",
+            "payoutAmount": 1.393414283435535
+        },
+        {
+            "address": "0x793f0d243c5d082f7df83ee2be1dfe85f846e2c9",
+            "payoutAmount": 1.3883400096017755
+        },
+        {
+            "address": "0x033f392baee7de3dcd0c02114cbfb1c4d5a46495",
+            "payoutAmount": 1.380878888281231
+        },
+        {
+            "address": "0x7f3ff251a274d96dd7449f15442fba3c6b17bf1f",
+            "payoutAmount": 1.3768353378947644
+        },
+        {
+            "address": "0x46d301cccea623b77217342e356ea4983a36caee",
+            "payoutAmount": 1.362550861937756
+        },
+        {
+            "address": "0x048983c87f87e171bb665d613cc930571f791655",
+            "payoutAmount": 1.356540155660334
+        },
+        {
+            "address": "0x2d17d111502fc72b7f495d4632a20b5df74c9d87",
+            "payoutAmount": 1.3510174641593886
+        },
+        {
+            "address": "0xd2028636b648f7d670696005384c87eed6fa67f8",
+            "payoutAmount": 1.3461402731739056
+        },
+        {
+            "address": "0xce8ba46fffbae23a0f2042c32e721e0d71c3e0b2",
+            "payoutAmount": 1.3373543393441314
+        },
+        {
+            "address": "0xda26bf785d2aec6a72a77877e6d06a4904d126af",
+            "payoutAmount": 1.3341720177406529
+        },
+        {
+            "address": "0x805ab080bf10c8a08d3dea7c69fbcb45cc6d6b25",
+            "payoutAmount": 1.3240272501814665
+        },
+        {
+            "address": "0xf5cf751539d060410412e49a91ba157506c57f10",
+            "payoutAmount": 1.3151424267296694
+        },
+        {
+            "address": "0xa4c218db4c4088f65a9c14486bd7b40db7b5e4de",
+            "payoutAmount": 1.3017750862838497
+        },
+        {
+            "address": "0xa9a0f3b8cb0f97e0a87348130af0983e9a130bf6",
+            "payoutAmount": 1.2939685079071046
+        },
+        {
+            "address": "0x86fb8e559b6beb742e40665223d890c39ac87f94",
+            "payoutAmount": 1.2726841697036735
+        },
+        {
+            "address": "0x9b4d1d011d3da41496e60bb39beaa7613731df85",
+            "payoutAmount": 1.2693004909227146
+        },
+        {
+            "address": "0xa4c027c7e18d03e691e3e8552c0c98eac4202a86",
+            "payoutAmount": 1.2613350077321006
+        },
+        {
+            "address": "0x41b61fb95a03699fbb383cb7f5935f5230c8caf8",
+            "payoutAmount": 1.2491379884410359
+        },
+        {
+            "address": "0x119d938de12b84c4b4f5bf6edd79d6c3e8d2d40b",
+            "payoutAmount": 1.2364202167262714
+        },
+        {
+            "address": "0x9666df16f907b700ba61a20877b688bf08cc2f7b",
+            "payoutAmount": 1.232333643509745
+        },
+        {
+            "address": "0xf2371fc5908e3e1acbe20ae796792fc6f505a3e1",
+            "payoutAmount": 1.231143033883896
+        },
+        {
+            "address": "0xa05af6a59167037222a0a5afb9c7b22e34478f80",
+            "payoutAmount": 1.2299902274057204
+        },
+        {
+            "address": "0xa2b914c9f991fbb331ec91ce7d5a3e394c47bda9",
+            "payoutAmount": 1.2180221184654971
+        },
+        {
+            "address": "0x2f9994048ee63271f5beb337c902b74b93a0136a",
+            "payoutAmount": 1.2083913752860456
+        },
+        {
+            "address": "0xa3d732ac3bf04261f08564b3dc90edb49db6bbf6",
+            "payoutAmount": 1.20441004553604
+        },
+        {
+            "address": "0x9966e132471557b2cfe06d4b6c6aad4dd516e2c6",
+            "payoutAmount": 1.1964484323517843
+        },
+        {
+            "address": "0x2f6a56229663789c4f3832535996f7ab17845623",
+            "payoutAmount": 1.1933761643644856
+        },
+        {
+            "address": "0x1856a3d64256269055218a4b0681db1b84f8c8c6",
+            "payoutAmount": 1.1916660332504128
+        },
+        {
+            "address": "0x09646138f60fc84363ec382c4c00655512ae0b0d",
+            "payoutAmount": 1.1821838716451019
+        },
+        {
+            "address": "0x88a112caed3dc048f58bae41be86327276ef2334",
+            "payoutAmount": 1.1693871091279031
+        },
+        {
+            "address": "0x95584302481d16e5eeab77136c6d01254dc78a5a",
+            "payoutAmount": 1.1572339426227503
+        },
+        {
+            "address": "0x7731c6fbe420b7698540c22cfccba9be3f4ddfc7",
+            "payoutAmount": 1.1498977024302093
+        },
+        {
+            "address": "0x0417fb5b9e3b90bb5c9408d516440cb34a2ec1c3",
+            "payoutAmount": 1.1436689854623325
+        },
+        {
+            "address": "0xd7d296ba09e14150a0306e13d2de3dfb69cb4eaf",
+            "payoutAmount": 1.141627808243714
+        },
+        {
+            "address": "0x08f308c854fa9ca391d0246a5da0e6f22fcbaab2",
+            "payoutAmount": 1.1282703996858068
+        },
+        {
+            "address": "0x2cb29ed7a4a43c2843e445add28d98ee35f41746",
+            "payoutAmount": 1.1275857594511738
+        },
+        {
+            "address": "0xda073eb19a56fc13686b26e0b0b848c84cc6dc6d",
+            "payoutAmount": 1.1273007121105225
+        },
+        {
+            "address": "0xba696643cbf2d095ca6161d400896e6373ca009d",
+            "payoutAmount": 1.1212639174205303
+        },
+        {
+            "address": "0x920008ec0862346f4472ef513c9cba3d99745ba7",
+            "payoutAmount": 1.108678296433031
+        },
+        {
+            "address": "0x9b8d0c9b96bf95337e6475ae737aa67152000041",
+            "payoutAmount": 1.1033789549417266
+        },
+        {
+            "address": "0xab2738892c551a264305e05d5884135c0318e94f",
+            "payoutAmount": 1.1028633853168381
+        },
+        {
+            "address": "0x2eb64d6df3b26ef41f4b05eb105e7132716d5274",
+            "payoutAmount": 1.0931464650395886
+        },
+        {
+            "address": "0x238c9a4ab068be9dbcdaa914893e8ccd5f1deafa",
+            "payoutAmount": 1.0903807777898729
+        },
+        {
+            "address": "0x231abb3f9c7e0cd3a0d413956498a74e9f6b5ba4",
+            "payoutAmount": 1.0776203671134852
+        },
+        {
+            "address": "0x433f5589c8e03d06351802255905dc70f8c1972e",
+            "payoutAmount": 1.06566644226293
+        },
+        {
+            "address": "0x880c22a1a3cc5811eaef457b20731b06547bad8a",
+            "payoutAmount": 1.0579119706961186
+        },
+        {
+            "address": "0x45c65b289988007dea2bf317089e00ee38ec476a",
+            "payoutAmount": 1.0569915976169526
+        },
+        {
+            "address": "0xfca2237a079698274b3756ecec81c0d3d2d4c25f",
+            "payoutAmount": 1.0545801520043063
+        },
+        {
+            "address": "0x41e0b226c58b3648e806ccdbfc43200c793bde81",
+            "payoutAmount": 1.0446834630917368
+        },
+        {
+            "address": "0x51e6b13de6508a3d9f37e5bdc2f58c23d606d1ac",
+            "payoutAmount": 1.035588492080787
+        },
+        {
+            "address": "0xb79914672e050a5b90e53edf91a16a8e84f6f1cf",
+            "payoutAmount": 1.0336351276055398
+        },
+        {
+            "address": "0x590165006622584c02c4194a4019833ac0cca9b7",
+            "payoutAmount": 1.028657677517672
+        },
+        {
+            "address": "0xa67cefdc65dbd4ca5847c4b2e25aa7bfdf377706",
+            "payoutAmount": 1.0187006816300694
+        },
+        {
+            "address": "0x940589ad4a46d0d0833429f3c5700fa54b075f67",
+            "payoutAmount": 1.007622723330385
+        },
+        {
+            "address": "0x8c1999e7b27071d5e7df4aadb13ae05dfc7ffe6e",
+            "payoutAmount": 0.9802216489168777
+        },
+        {
+            "address": "0x021d2b4f17f68c2dbe819f21b63d7fe8860939a0",
+            "payoutAmount": 0.9742279887910681
+        },
+        {
+            "address": "0x7523ccb751a2d9c848ba29e16f17f51c9bef2a9d",
+            "payoutAmount": 0.9740604795690768
+        },
+        {
+            "address": "0x7bf602646ee8066956b8fa6de42d3b31c2b0d6da",
+            "payoutAmount": 0.9711177850908346
+        },
+        {
+            "address": "0xa18ab45ffea81ff6a3b91fae09a959acdcad7f05",
+            "payoutAmount": 0.970479703289695
+        },
+        {
+            "address": "0xbf4061289d92e24aa36a0ef4288a606eef9b02d6",
+            "payoutAmount": 0.9702848559318585
+        },
+        {
+            "address": "0xd8e3b2e7c9417b3bdd6e8c5e341f3934561365b2",
+            "payoutAmount": 0.9656919644532198
+        },
+        {
+            "address": "0x61099429d80c9595e3ff3db17fb9da75cd8f41b6",
+            "payoutAmount": 0.9625707225340701
+        },
+        {
+            "address": "0x207fd036c110218603b403f0147834a241a9bd05",
+            "payoutAmount": 0.9569384
+        },
+        {
+            "address": "0xcf6db70f2d8c4bfe69ff7ac83f1c3a9502b54bd8",
+            "payoutAmount": 0.9567505391943785
+        },
+        {
+            "address": "0xe3ecead3abdcbafefbb601a8f066656490025dae",
+            "payoutAmount": 0.9553588389146013
+        },
+        {
+            "address": "0xd4d6a1d9ca0291b07c3beb774f0631bac41dfda4",
+            "payoutAmount": 0.9479560284077249
+        },
+        {
+            "address": "0xfc413f242122aa14fb9c7c839ea81ef7bf1270d7",
+            "payoutAmount": 0.9473998135973917
+        },
+        {
+            "address": "0xa13e041dae94c80175f496fd4b04422b429ee5d8",
+            "payoutAmount": 0.9462898979438745
+        },
+        {
+            "address": "0xaec17cf981aebf72e8519382fbf4d6aa96b8875b",
+            "payoutAmount": 0.944713056064347
+        },
+        {
+            "address": "0x6793089671ff8692d5b2ab59f839b06e990ec269",
+            "payoutAmount": 0.9411833689324407
+        },
+        {
+            "address": "0x857fb5481b2f4c785b9911457a3955469b60d259",
+            "payoutAmount": 0.9381934877597046
+        },
+        {
+            "address": "0x90fbe42e09a2b65f47004dbf59f1fc090fede19b",
+            "payoutAmount": 0.9319245964250121
+        },
+        {
+            "address": "0x977fc9d59760a945bdbab4cee579f74da5ea9b6c",
+            "payoutAmount": 0.920520833957569
+        },
+        {
+            "address": "0x1a4158b06f344dafe8a61ce2d121635fcc4bdd81",
+            "payoutAmount": 0.9167855252500657
+        },
+        {
+            "address": "0x91207adf8f6e50453b35b53f9f41845fbe34c828",
+            "payoutAmount": 0.9003353614753823
+        },
+        {
+            "address": "0xe30a71220b9de6e822f2ee8b5a7acc21fd93640c",
+            "payoutAmount": 0.8999104779633232
+        },
+        {
+            "address": "0xf3485fb6c6b95968c740ad0b1e0fc1f5c3dc155d",
+            "payoutAmount": 0.8967268343398213
+        },
+        {
+            "address": "0xb7a97cc8cce8d3b973f8850800c1897708c3d7dd",
+            "payoutAmount": 0.8947178448297667
+        },
+        {
+            "address": "0xc316923d08e4fbf17553eb68a4c081cf9a4a7270",
+            "payoutAmount": 0.8788680159160434
+        },
+        {
+            "address": "0x72127b8e5c24f71e8d8e94a316ea22a7430f3d70",
+            "payoutAmount": 0.8787010340023214
+        },
+        {
+            "address": "0x57bec600c9376c27ab9680b41743d3de238ddff5",
+            "payoutAmount": 0.8772901158908053
+        },
+        {
+            "address": "0xcc05795e97dbd54d2de3c98c56fad6ceb2e22ef8",
+            "payoutAmount": 0.8695697696391548
+        },
+        {
+            "address": "0xbb43a2712b47afba6abecf46276afcfa30fae976",
+            "payoutAmount": 0.8468264141136462
+        },
+        {
+            "address": "0xf950f839fff1c8ec65e4b9333b21e998ffdcc353",
+            "payoutAmount": 0.844497841579166
+        },
+        {
+            "address": "0xe019aa765a876c17ce8e5ff1d448cc8394d2d6f0",
+            "payoutAmount": 0.8436381627470436
+        },
+        {
+            "address": "0x0bdaec3d4fb589124fa0c52e91796e6b3d5d4c15",
+            "payoutAmount": 0.8404770270299128
+        },
+        {
+            "address": "0x76a0ff830f905f7d2ab442dbb52ce7752e60bd6d",
+            "payoutAmount": 0.8365058236942451
+        },
+        {
+            "address": "0x6c37b5e4d4be896bf13b38f6b15a68609427bf21",
+            "payoutAmount": 0.8294061034282698
+        },
+        {
+            "address": "0xc9acd134251f1f9e0533ce321bda2eb813552ad8",
+            "payoutAmount": 0.8289748863314329
+        },
+        {
+            "address": "0xb5f4f11cd329e9f64f5bb46f824984a3361fb432",
+            "payoutAmount": 0.8270565893564854
+        },
+        {
+            "address": "0x9d61cbee3941a6317547a82c0b6c5d5e6bb04af0",
+            "payoutAmount": 0.8254084649531281
+        },
+        {
+            "address": "0x3e6b792630c288e72c89c4a49777eda60479d5a5",
+            "payoutAmount": 0.8214017771250773
+        },
+        {
+            "address": "0xbe5f39e4571c88d3d6dfaa9df4abb5b467b0be42",
+            "payoutAmount": 0.8097793504967418
+        },
+        {
+            "address": "0x42c3c9d6d5e08a32ac493009bc6b6578b5fb9453",
+            "payoutAmount": 0.8048772007153581
+        },
+        {
+            "address": "0xafd66c7060197f418773aa3ff6782fcb15fd5643",
+            "payoutAmount": 0.800669652643464
+        },
+        {
+            "address": "0xde180676b3127371684ff4a23e9eaee09b985079",
+            "payoutAmount": 0.7969598316275881
+        },
+        {
+            "address": "0xabe22904285a1616e6345ef9d5c08adbd006e9a8",
+            "payoutAmount": 0.780003604381267
+        },
+        {
+            "address": "0xf039aaf205c18ca537359ff055c5a9c6e6e04fb4",
+            "payoutAmount": 0.7741135526164139
+        },
+        {
+            "address": "0x981e4bc044632244b286184789cdf5bd8a83224d",
+            "payoutAmount": 0.768960396440757
+        },
+        {
+            "address": "0xa3be222eeaede55029871733d71f82bc0da7b2de",
+            "payoutAmount": 0.7661858518063317
+        },
+        {
+            "address": "0x68ae261e6ee6c25206b4f78df6fa645d79d38a66",
+            "payoutAmount": 0.7647578899594345
+        },
+        {
+            "address": "0x20317307762ead3960682491c34e833861ff9e2e",
+            "payoutAmount": 0.7577986617105114
+        },
+        {
+            "address": "0x575102585ede6f9df7d2f003211e219e2eac0b6e",
+            "payoutAmount": 0.7462474140673989
+        },
+        {
+            "address": "0xf0300a4ab744561b7a59705ae02418b7ea2c3e90",
+            "payoutAmount": 0.7385889781581539
+        },
+        {
+            "address": "0xb9e3b1664986e395acb52f30a0e5843c45d42219",
+            "payoutAmount": 0.7297191063080248
+        },
+        {
+            "address": "0xce41b5c8ee15c56f333ddd38917495de23ca921c",
+            "payoutAmount": 0.7193972136851037
+        },
+        {
+            "address": "0x7f4f716d5b69d51411deed2afb96fd44f45e25e1",
+            "payoutAmount": 0.7146520906398438
+        },
+        {
+            "address": "0xee3beb6a3c67729b9d3ae99e5ba197f9c3ef9366",
+            "payoutAmount": 0.7118680257169162
+        },
+        {
+            "address": "0x218e57d80d9e798f1e234377a09b35f7ac15bf9c",
+            "payoutAmount": 0.7098594228400334
+        },
+        {
+            "address": "0xc679010aab75cc31c6a117ee861f4b812de70acb",
+            "payoutAmount": 0.7084219692632261
+        },
+        {
+            "address": "0x0626b2d976fbce3efb3d24b74639d3249ddbd8e4",
+            "payoutAmount": 0.7081477155457512
+        },
+        {
+            "address": "0x79fe162a8d9279691da8d41e5bd1369b9a5a6d7e",
+            "payoutAmount": 0.7028559011675889
+        },
+        {
+            "address": "0x66bb69994a066e2bba88058eb1b9ac6701846c93",
+            "payoutAmount": 0.7016702985020835
+        },
+        {
+            "address": "0x01081998895428b4de440f5468e0ead0116e3b7b",
+            "payoutAmount": 0.7015873068740522
+        },
+        {
+            "address": "0x35d50da15f977aae49607d76878b64d2a239bebe",
+            "payoutAmount": 0.6963386990588527
+        },
+        {
+            "address": "0x700781608a4e68ea5859fd331757082bfa410741",
+            "payoutAmount": 0.6842529276834678
+        },
+        {
+            "address": "0x238a807011842c11858a6e39a83813430c54c927",
+            "payoutAmount": 0.6839264818173483
+        },
+        {
+            "address": "0x17e47e200a89ef23e1d15e352448352620b6c88e",
+            "payoutAmount": 0.6821692626097567
+        },
+        {
+            "address": "0x5e98f1ab5d80cd20df7ac6041b332eaea649d4f2",
+            "payoutAmount": 0.6784675175442934
+        },
+        {
+            "address": "0x93982389f8bd7e331161af4b5fd297e89cbc375d",
+            "payoutAmount": 0.6778739207561008
+        },
+        {
+            "address": "0xa931bd6ad2692551a2063fc2274478971c81a507",
+            "payoutAmount": 0.6776008043724062
+        },
+        {
+            "address": "0x63bb4e72785998290b54c24db5344c65a7ed15f3",
+            "payoutAmount": 0.6774953965166387
+        },
+        {
+            "address": "0xe5882d695069193e577933764bd3e3d453df6f3e",
+            "payoutAmount": 0.6747961411788953
+        },
+        {
+            "address": "0x17d5f5128a7e9468ece36853f81826c090d73170",
+            "payoutAmount": 0.6724564883419312
+        },
+        {
+            "address": "0xeff046206fb83ab7a2c468de9e1c1ea26442e20e",
+            "payoutAmount": 0.6626741456056926
+        },
+        {
+            "address": "0xe1b3495fd8102bd92f1d2c4f1bebb3c3ae7df70f",
+            "payoutAmount": 0.6601714867295261
+        },
+        {
+            "address": "0x28906f72772641b48b5792c9ad594502c744c780",
+            "payoutAmount": 0.6584914886000802
+        },
+        {
+            "address": "0x46e3b8dce73f132184b0260c05c2bcfa92874d68",
+            "payoutAmount": 0.6578337219310062
+        },
+        {
+            "address": "0x7aae2df46514e8c8f2d8f920b53a2e6e087008db",
+            "payoutAmount": 0.6564978388913592
+        },
+        {
+            "address": "0xbc46523cd9f96b1e852c7ca7cc0b8978911a4098",
+            "payoutAmount": 0.6413134564371755
+        },
+        {
+            "address": "0x05b6318f0b55506a8e3934d2b0a2747759596b64",
+            "payoutAmount": 0.6409624062532814
+        },
+        {
+            "address": "0xffa03fee6511627a721195c70647265db19dc212",
+            "payoutAmount": 0.639840635139413
+        },
+        {
+            "address": "0xb77f5115e75cd70fe391638050e669c1b65c26bd",
+            "payoutAmount": 0.6290089763023573
+        },
+        {
+            "address": "0x1f99120e58fa4372409a6a05e7b2198e7602133c",
+            "payoutAmount": 0.626894074225067
+        },
+        {
+            "address": "0xf27934ee3307843b0c1c466171eee1ab0ab0a1fb",
+            "payoutAmount": 0.6255458678558373
+        },
+        {
+            "address": "0x35c3c633d60eeaca04871a28ac74229a1d5896e5",
+            "payoutAmount": 0.6173974924766303
+        },
+        {
+            "address": "0x1383e88035eb04f6f06773a6a8cdcf883dba10d6",
+            "payoutAmount": 0.6112285398918534
+        },
+        {
+            "address": "0x18ebf7535ccb1d037d657df0a6a89c699ff5a82d",
+            "payoutAmount": 0.5996590471126508
+        },
+        {
+            "address": "0x0e3d0cb623235a566cfb7f39b5f9bc743ae581a0",
+            "payoutAmount": 0.5983074410387375
+        },
+        {
+            "address": "0x14c31bd89500602a95496a322cf48812b6ba6328",
+            "payoutAmount": 0.5972116137517667
+        },
+        {
+            "address": "0x81728e305f3f26f9304f816b3b565195c04e5faf",
+            "payoutAmount": 0.5943483388297264
+        },
+        {
+            "address": "0xe7908ddffe945b547a07cf9d61b08f8a9edb09b5",
+            "payoutAmount": 0.5892685728349273
+        },
+        {
+            "address": "0x6ce703b4655188b1ecb2bdb199ed8054b3c5dc6d",
+            "payoutAmount": 0.588427869979222
+        },
+        {
+            "address": "0x0abe7ba8b6cfd4663c1ab9a4d6f53cc6b9e46f79",
+            "payoutAmount": 0.586309648850237
+        },
+        {
+            "address": "0xcacebf872a2b3905e8ee2fac353fdade7ce62ef2",
+            "payoutAmount": 0.580408914572108
+        },
+        {
+            "address": "0x545f5df5f8072a219a43827572ca139eddb07309",
+            "payoutAmount": 0.5745658403088636
+        },
+        {
+            "address": "0x8ec263321170649e1d6cdf9565815575d48fd855",
+            "payoutAmount": 0.5729743105357714
+        },
+        {
+            "address": "0xc673f8e35e10999fca0c1d0377c4d2bab9c0b0af",
+            "payoutAmount": 0.570494648059137
+        },
+        {
+            "address": "0xd948b401d81d24f333342e84cfe9610873fb2f5e",
+            "payoutAmount": 0.5676773365518101
+        },
+        {
+            "address": "0x3ebc96b524304b42f3d93008327c16076bc20051",
+            "payoutAmount": 0.5668612773979221
+        },
+        {
+            "address": "0x5cc6bdb28ebdaee2c073902649b51ae22ae3797f",
+            "payoutAmount": 0.5659533564222605
+        },
+        {
+            "address": "0x5bd526e262e8b25931c0143993bdb395c58235c8",
+            "payoutAmount": 0.5620833718799279
+        },
+        {
+            "address": "0xbbcf236da492132b5984ee0a295358fd0abc3b09",
+            "payoutAmount": 0.5613998200572095
+        },
+        {
+            "address": "0x5bb8091bfd2327e78796e4764f4c649600ce7cd7",
+            "payoutAmount": 0.5493029199127011
+        },
+        {
+            "address": "0x7ec9fee9cd7189fbffe7754553fd22b43793a9c7",
+            "payoutAmount": 0.5475593766522896
+        },
+        {
+            "address": "0x226bab05edc0c500368482b00d6c8f435e5eb2c4",
+            "payoutAmount": 0.5460869810605641
+        },
+        {
+            "address": "0x768bff2d1c623567be424181bc55f34226ab3112",
+            "payoutAmount": 0.5448649904373891
+        },
+        {
+            "address": "0x9ef3677970618238bdaeb41820ae79eb4db1c9e6",
+            "payoutAmount": 0.5434687222493368
+        },
+        {
+            "address": "0x55168cc6db3dd1dbb9ab210a7d8ed18df2af22b1",
+            "payoutAmount": 0.5427048939586305
+        },
+        {
+            "address": "0xaf689d69b6b1ad029d9f38d2d774d50661e710df",
+            "payoutAmount": 0.5288842315351714
+        },
+        {
+            "address": "0xc1d30e21a561ec47ed7f5da016bf0d73c6110a56",
+            "payoutAmount": 0.5286898753298219
+        },
+        {
+            "address": "0x321a5bf22e3e508973c0bee3920c7553a7e3d675",
+            "payoutAmount": 0.5235538011087515
+        },
+        {
+            "address": "0xb8cee47f8afdeca465ed4354387f798b71fb9a09",
+            "payoutAmount": 0.5221173827320461
+        },
+        {
+            "address": "0xd0aa7bedcea382b2d7013c779b8b0f80c70e7104",
+            "payoutAmount": 0.5204328363655241
+        },
+        {
+            "address": "0xf6ac589dec341c03ef735a0048a64efea0502cde",
+            "payoutAmount": 0.5169916491990639
+        },
+        {
+            "address": "0xa1bdf707829ac9925fcdf89854db9a4b49e3b0e3",
+            "payoutAmount": 0.515632770201195
+        },
+        {
+            "address": "0x15824701985e28a944ff979e79127e1a94c8095f",
+            "payoutAmount": 0.5142679701693805
+        },
+        {
+            "address": "0x403a14ed34999a1d99bdf04bb83a734c1643becb",
+            "payoutAmount": 0.5123050041016148
+        },
+        {
+            "address": "0xf7d775321d38e9bb228e40332203b0bf494a0d5d",
+            "payoutAmount": 0.5119821362212523
+        },
+        {
+            "address": "0xcf23ae25aa51df895161c10676a0d3cccff4378b",
+            "payoutAmount": 0.5081759232098583
+        },
+        {
+            "address": "0xfedacda57e9e0655f288cec14677dd7ba6f55826",
+            "payoutAmount": 0.5055403537890972
+        },
+        {
+            "address": "0x0fb3586775d082f42b8ae7a867b4b6f4d4522656",
+            "payoutAmount": 0.5037918286337842
+        },
+        {
+            "address": "0xfaf64e4c883153dc9d59e628132241a8733d5522",
+            "payoutAmount": 0.5024859629223283
+        },
+        {
+            "address": "0x9bfe3277c2f9eef6e71e97c900c565e0fbf25850",
+            "payoutAmount": 0.5024464886381929
+        },
+        {
+            "address": "0x50659f19135f4db591cbe6304cb1d4d3446f7363",
+            "payoutAmount": 0.4992417801312164
+        },
+        {
+            "address": "0x869df03ca254647aaf1ecc94e252759998c2d30d",
+            "payoutAmount": 0.4936792197299212
+        },
+        {
+            "address": "0x1790763061e7b226fb7950acbf868ef223561015",
+            "payoutAmount": 0.493426514201452
+        },
+        {
+            "address": "0x7b11244479bf6446f7def6d5eed10d837ae896a2",
+            "payoutAmount": 0.4875180317091514
+        },
+        {
+            "address": "0x27a8bdb9b6c5335298ece0bc7eb2b5b013f81cef",
+            "payoutAmount": 0.4865185798954661
+        },
+        {
+            "address": "0x3fccd6c104d007c354da93aff7d2526b5ca01a42",
+            "payoutAmount": 0.48606603358433215
+        },
+        {
+            "address": "0xb7c7e2b4b138781abb8bf33322a58cc6fef061d3",
+            "payoutAmount": 0.4842608309556308
+        },
+        {
+            "address": "0xb7e44ca0c2823faaeabd62fbc5f522ac2766ac1a",
+            "payoutAmount": 0.47226115833721094
+        },
+        {
+            "address": "0x98de42721e86a1c7e8c835abac8d12bf0529dad7",
+            "payoutAmount": 0.47071059265996923
+        },
+        {
+            "address": "0xab5a34a96bf3087d937c958d67cb22203262f2c1",
+            "payoutAmount": 0.47013577574390436
+        },
+        {
+            "address": "0xc3819c547410dcf365e49ca5c123e5aa8d4fead5",
+            "payoutAmount": 0.4691351267786598
+        },
+        {
+            "address": "0x8e1aa38f23707302a6da73105fcfc18aaad385d6",
+            "payoutAmount": 0.4681182099941725
+        },
+        {
+            "address": "0x74fe624b92a245bf3bfb069d7d63cfe2eab68e79",
+            "payoutAmount": 0.46521540421990126
+        },
+        {
+            "address": "0x7e9ad7f0830b491e707c84a9a81cb3712d8e9cbc",
+            "payoutAmount": 0.46520039004840846
+        },
+        {
+            "address": "0x3cab40c3c30595f6e4f9238a508ecb16f14c7b78",
+            "payoutAmount": 0.45704019071650936
+        },
+        {
+            "address": "0x1c7b949ab51f7d1a981d5b8adb0cab4d7dd3c316",
+            "payoutAmount": 0.4566891216056488
+        },
+        {
+            "address": "0x4cd9fb2c487129c44a1aa00e806485ba00c1706a",
+            "payoutAmount": 0.45647078973386807
+        },
+        {
+            "address": "0x78c3c32938d311dc8598f91d3eda3753d9d583de",
+            "payoutAmount": 0.45353258456864776
+        },
+        {
+            "address": "0xec21bfc67794df615acc2206db9e7cd88afea984",
+            "payoutAmount": 0.4510526152430331
+        },
+        {
+            "address": "0xf769b63042103f1b8747032d9a905d7e1baef7c8",
+            "payoutAmount": 0.44958578978332187
+        },
+        {
+            "address": "0xeb18ceebff85fb98f6bbeb17e0c05b8e39f41b8c",
+            "payoutAmount": 0.4495683044710818
+        },
+        {
+            "address": "0xc0b85b932b79f722e7c5549ea2f59c15904f2a88",
+            "payoutAmount": 0.44930858806032825
+        },
+        {
+            "address": "0x2e4f4e0cae4242c506d4e26936d44f98c18633c4",
+            "payoutAmount": 0.4472692405878897
+        },
+        {
+            "address": "0xde5b64b3a34b94cc38168a38f6a42f676214d29f",
+            "payoutAmount": 0.4450869550674866
+        },
+        {
+            "address": "0xc5505281c41f4a6b63e4e76a8ce8556efac54fea",
+            "payoutAmount": 0.43781683293584617
+        },
+        {
+            "address": "0xd5bf0cc255e676755b30facdd1b5b8209ea9172f",
+            "payoutAmount": 0.43614703009279315
+        },
+        {
+            "address": "0x077b9899ad3cf2f6f6fbfe7852ee2f54974e74b5",
+            "payoutAmount": 0.4357192119682324
+        },
+        {
+            "address": "0xdc12fae8c056d1541d1bb34f520816f82724c26a",
+            "payoutAmount": 0.43510873564729685
+        },
+        {
+            "address": "0xf1e564efd401fccf24395b189517b0e3c5c977f0",
+            "payoutAmount": 0.4346408051555367
+        },
+        {
+            "address": "0xcb1c972d6af80ad7c497e35f230cc362c38d6d1f",
+            "payoutAmount": 0.4303219790065949
+        },
+        {
+            "address": "0xde68fd66645d049f9ee8dd97bae343f4b7975a49",
+            "payoutAmount": 0.42979454249730453
+        },
+        {
+            "address": "0x2dff6b8b50ab8d2bcbd4fe4ff7df573e0fe010c5",
+            "payoutAmount": 0.42858054594256434
+        },
+        {
+            "address": "0x4f79a9b72db888a7b45de6c18fe8dd13c6ebabd2",
+            "payoutAmount": 0.4263820877540793
+        },
+        {
+            "address": "0xff60d107aec9330aae4a92e3a2c0b54a10a6d3d0",
+            "payoutAmount": 0.4246552707628393
+        },
+        {
+            "address": "0x3c3a2a551dca277c76d4c6f2451a45bca68a93c2",
+            "payoutAmount": 0.42431594392200367
+        },
+        {
+            "address": "0x7f7181678dc4b4a1c5b11e0aa1b13cbcaf91ec7d",
+            "payoutAmount": 0.422679648465528
+        },
+        {
+            "address": "0x9cbdd039c2f86a9ce7334f9c43cbf4a94af863a0",
+            "payoutAmount": 0.4211269462832323
+        },
+        {
+            "address": "0xac3cd603b7e3034d486c0dddc3ad7b451d0c9b2d",
+            "payoutAmount": 0.41932789090173705
+        },
+        {
+            "address": "0xa6ba88f0594a846f2e2cab835677983163680e9f",
+            "payoutAmount": 0.41801459068929353
+        },
+        {
+            "address": "0x83a644702a1030d4b9a81026b6bf75c8b0c865b4",
+            "payoutAmount": 0.4101533754354158
+        },
+        {
+            "address": "0x339b9c5b72a6a500f0d7d7cd320e21512004da7e",
+            "payoutAmount": 0.41005715880760224
+        },
+        {
+            "address": "0x3c21e44099ba801be905a606cbddebb3b8ba4476",
+            "payoutAmount": 0.40870326406598273
+        },
+        {
+            "address": "0xb25ab42dca6d2bc027ee113c559330ff7469351d",
+            "payoutAmount": 0.4064500522937377
+        },
+        {
+            "address": "0x751e5c0cf111ec94a71e021a0a5b03cd2bb41c32",
+            "payoutAmount": 0.39901404337749746
+        },
+        {
+            "address": "0x2bb3ca261bfdd2dcd82c512fb3cc78f72281e0a7",
+            "payoutAmount": 0.39657498326728663
+        },
+        {
+            "address": "0xab9abd6cffb44a13ec712ab8bd941f99757e0199",
+            "payoutAmount": 0.3935955241329658
+        },
+        {
+            "address": "0x7080393502c453fe503773618130026e33807322",
+            "payoutAmount": 0.39220239382673183
+        },
+        {
+            "address": "0xa3fb82b1d95106184a85cb1a5e949a139999a51d",
+            "payoutAmount": 0.39022489585313985
+        },
+        {
+            "address": "0xcb37ed0133f1779cb0c948ff5e513204c1ec85be",
+            "payoutAmount": 0.39005182992962256
+        },
+        {
+            "address": "0x10ca2bf6b11ee3b3783a7394c83c9413369ca988",
+            "payoutAmount": 0.38900976233819134
+        },
+        {
+            "address": "0x3b8199e5f2d7cdfc3e8078b0e3cdae8e94e7ccb6",
+            "payoutAmount": 0.3843961713507265
+        },
+        {
+            "address": "0x05a84dac7d722e3313b5c94e2681baac3427ba76",
+            "payoutAmount": 0.37901874871957586
+        },
+        {
+            "address": "0x5bd2dc33be2b3f690d10116c0e34751786924bb8",
+            "payoutAmount": 0.3773726439634182
+        },
+        {
+            "address": "0x5636e4c463053d7a18771f0ae1117602e725f5e0",
+            "payoutAmount": 0.3771459105643108
+        },
+        {
+            "address": "0x06423aca7f607c6c5723d81fff57b7f0f43991dd",
+            "payoutAmount": 0.37629979813500997
+        },
+        {
+            "address": "0x6ba06df13bf98751264553a0272e5cdb96ba6875",
+            "payoutAmount": 0.37587790274668426
+        },
+        {
+            "address": "0x80ac3ee49f4ec28f53e1587e0434f554cf3ed679",
+            "payoutAmount": 0.3734019986464729
+        },
+        {
+            "address": "0xea006c9ec4e3edfe8eeaa774a82b863f2b7ec200",
+            "payoutAmount": 0.37312610967489995
+        },
+        {
+            "address": "0x96c7f994683e0f1e178779c7751ede300fe2e9e9",
+            "payoutAmount": 0.37294753646282286
+        },
+        {
+            "address": "0x05bb29bebd811a1728e0c46377046dcd364d071e",
+            "payoutAmount": 0.37233504792554656
+        },
+        {
+            "address": "0x1026ec248a679a4b64b00e9141d8d99b2afdbd55",
+            "payoutAmount": 0.3716958897388289
+        },
+        {
+            "address": "0x0435a1b1a42861d4fa4b2b5e6063f729dbce4490",
+            "payoutAmount": 0.36753064840039734
+        },
+        {
+            "address": "0x9c83efa53458994c364c6b233899cfa248b000b0",
+            "payoutAmount": 0.36662003985506614
+        },
+        {
+            "address": "0x44bbff402b2cb8b112e9a8401cc349d0bfc2e827",
+            "payoutAmount": 0.36626035192682166
+        },
+        {
+            "address": "0x0b8088bd4d36d086fc3a0e5070f9a9b683554998",
+            "payoutAmount": 0.3615974842169579
+        },
+        {
+            "address": "0x79975314f83ebfcea2182e29f708db59bd7ff169",
+            "payoutAmount": 0.349238346329419
+        },
+        {
+            "address": "0x4b12435d43010972915cbf7daafe0d1785160313",
+            "payoutAmount": 0.34221026863041787
+        },
+        {
+            "address": "0x1dc112cfd2ab8a81cbcd1ae86671be23eb4576d8",
+            "payoutAmount": 0.32723046619513524
+        },
+        {
+            "address": "0x8790414c0cac4dcfbe9b17419e4ab12a7998be24",
+            "payoutAmount": 0.3272160825397316
+        },
+        {
+            "address": "0x8df5fd22b5927ec7aca0da91693617d0c3868206",
+            "payoutAmount": 0.32638017224861415
+        },
+        {
+            "address": "0x3580c96b1a62f877e1cff83d2e7fa4a90c37e905",
+            "payoutAmount": 0.3236338873385726
+        },
+        {
+            "address": "0xd76dcd836586c1c6f51686e030ca4ac886bf8551",
+            "payoutAmount": 0.3229591289151665
+        },
+        {
+            "address": "0xf52acbf66076a1d5713f82f21b2741270900938a",
+            "payoutAmount": 0.3213129068797223
+        },
+        {
+            "address": "0x5f3429b1ed8118628622eddeeafbd6a1470e7d50",
+            "payoutAmount": 0.3210104452560392
+        },
+        {
+            "address": "0x25b1ad77ac82a00d6a121d44d71ea9aa1bbd8c0d",
+            "payoutAmount": 0.32068718697607246
+        },
+        {
+            "address": "0x325c83654d717dd71265aa81854991aee2bf016b",
+            "payoutAmount": 0.3201881449636576
+        },
+        {
+            "address": "0x740065666bd566f242b6fe0f8d7ae47d41c166e6",
+            "payoutAmount": 0.31596741611522244
+        },
+        {
+            "address": "0x8782e41ae9e0563883e402efdbb27b1b500bd265",
+            "payoutAmount": 0.31564907634179173
+        },
+        {
+            "address": "0x3fbff2438bf5c8c6a5a4ea4bd6f5559df435220c",
+            "payoutAmount": 0.3145478340198296
+        },
+        {
+            "address": "0xc3b118d6083a368c9a2b749c60a7c517c83a0d46",
+            "payoutAmount": 0.31131071645323555
+        },
+        {
+            "address": "0x29e40dc2595538f0396af65728f81b777c5678b5",
+            "payoutAmount": 0.3088487810899113
+        },
+        {
+            "address": "0xc82895774f5c0670e780e6beaab3049e5494acfd",
+            "payoutAmount": 0.3021269904259696
+        },
+        {
+            "address": "0xfe55a2f3f2378ccceff66186a01c266fdcb46d33",
+            "payoutAmount": 0.30137587650541553
+        },
+        {
+            "address": "0xcada8b8658c87092794ed879c8eb6d8274ec7ed9",
+            "payoutAmount": 0.29879181767881885
+        },
+        {
+            "address": "0x0e69f6e27b1a31c1c1849ef821338578a2fc82b9",
+            "payoutAmount": 0.29741729491803576
+        },
+        {
+            "address": "0x6857a04e2f3ae425549f80d752ae2e5ce2970f83",
+            "payoutAmount": 0.29640386479083997
+        },
+        {
+            "address": "0xbfe0a5ba7143d8a56ed94be6937cee49cb6c9cf9",
+            "payoutAmount": 0.292918790399633
+        },
+        {
+            "address": "0x63b776c7cd8beeb0682e0a8468402d30d8ff7951",
+            "payoutAmount": 0.28949785398357525
+        },
+        {
+            "address": "0x83f5cbc2522ee5dc620d55f7134ee97270eb7590",
+            "payoutAmount": 0.2870239094200586
+        },
+        {
+            "address": "0x4b957358d924237a99a6548f6bc3833646962499",
+            "payoutAmount": 0.28482519530644224
+        },
+        {
+            "address": "0xdebb505b2e5090297cb4a6a6f09262c677ef6083",
+            "payoutAmount": 0.2848200988627363
+        },
+        {
+            "address": "0x639c0d2deb408f4f72a4e383e571f3c6480238b7",
+            "payoutAmount": 0.2847358672068438
+        },
+        {
+            "address": "0x3d927a7c5fd3801dec4c61c8b75afcff15695984",
+            "payoutAmount": 0.28402138598943505
+        },
+        {
+            "address": "0xe7c1cce66dee22307933478fb070fa3280459596",
+            "payoutAmount": 0.2834140083403386
+        },
+        {
+            "address": "0x31c6d1286c8a023f9d476df4c91f8ee1248579a3",
+            "payoutAmount": 0.2812929415407027
+        },
+        {
+            "address": "0x24ed4cc71f3d661cdbd2a4918bb96aa56feaf1b4",
+            "payoutAmount": 0.2789360102687195
+        },
+        {
+            "address": "0x20ebdfd60488f2ba272d78818cd95dd3c2f63858",
+            "payoutAmount": 0.2777375209268503
+        },
+        {
+            "address": "0x6464766bbf30d306a485ec7cad4f8a31cf931d20",
+            "payoutAmount": 0.2754493811944533
+        },
+        {
+            "address": "0x4d0d033459979ff93dd72aee194f43245ec968d1",
+            "payoutAmount": 0.27527767989796986
+        },
+        {
+            "address": "0xb93556139007400fb76273882bb71a2ecca4ef60",
+            "payoutAmount": 0.27344661411152427
+        },
+        {
+            "address": "0x4c0aa329f65827fad0e6a37528712418ac179837",
+            "payoutAmount": 0.27068453829536265
+        },
+        {
+            "address": "0x9843c70a6900efc559cc39c383d8e56330ff91d8",
+            "payoutAmount": 0.2682746353144132
+        },
+        {
+            "address": "0xd4bb010e8dc8bcd679247793cddad61b0b9115df",
+            "payoutAmount": 0.2645607372347706
+        },
+        {
+            "address": "0x45a02a3c94859b3c331adf0215308282635a1c5e",
+            "payoutAmount": 0.26321936167460225
+        },
+        {
+            "address": "0x0ea85277971d022e27f36268312539f682780af4",
+            "payoutAmount": 0.26087793175402507
+        },
+        {
+            "address": "0x6ee2134dc15d8126190bbae8413f0da37517a4da",
+            "payoutAmount": 0.2586381207532607
+        },
+        {
+            "address": "0xa5a57832e2025ee60db422ea68ae915a0e52e423",
+            "payoutAmount": 0.2579391464463001
+        },
+        {
+            "address": "0x42a3dc07db1ec8de992b6ffac91c905bd9c6fb08",
+            "payoutAmount": 0.2573171529600451
+        },
+        {
+            "address": "0x1ac1303569958a192a2589a6bbe4b39bce946828",
+            "payoutAmount": 0.25648292733786476
+        },
+        {
+            "address": "0xbef7836eec69201f5a5cc0996b65d0626eba0059",
+            "payoutAmount": 0.2559853624127012
+        },
+        {
+            "address": "0xae996635dab54c37b46e34c1dcf6c038d7877d6c",
+            "payoutAmount": 0.2484551760484661
+        },
+        {
+            "address": "0x74c13c5fe15322550883db98054193940df37e3b",
+            "payoutAmount": 0.2481360664497639
+        },
+        {
+            "address": "0xec40c3164aa489da28269ddf16a8b01a0c3d5d44",
+            "payoutAmount": 0.24500647430200947
+        },
+        {
+            "address": "0x28621266be9e7fbb13ca8f3d302233fe4bcfc9b1",
+            "payoutAmount": 0.24412909399875263
+        },
+        {
+            "address": "0xa4ebcd09622eaa6caf8f01bbe680d8bafddf38cf",
+            "payoutAmount": 0.2426720214541103
+        },
+        {
+            "address": "0x57bc421fa5bf720150af95fc06d26521c6418518",
+            "payoutAmount": 0.24021469144930774
+        },
+        {
+            "address": "0x871d6b4ea2ee38c3be14e873cac747f3bf701c74",
+            "payoutAmount": 0.23874852608053587
+        },
+        {
+            "address": "0x54f9a7c59ca98b5afe72b621a787ec410aae42da",
+            "payoutAmount": 0.23778739233028637
+        },
+        {
+            "address": "0xbb6d57f13b1328a93dc274267f369f5283522023",
+            "payoutAmount": 0.2364450046676364
+        },
+        {
+            "address": "0xe7705bf81ee10ace684a63c4dc5dc63740c22d70",
+            "payoutAmount": 0.235971702878152
+        },
+        {
+            "address": "0x33162014f91ce1acf2a2032a46ff21c323bda06e",
+            "payoutAmount": 0.23207856183433218
+        },
+        {
+            "address": "0x1e044dd77f771e06fd629366d9d4a412b1dfc1b6",
+            "payoutAmount": 0.23116827037639473
+        },
+        {
+            "address": "0xc071aa01325310d16eb0058bb49b2a05dd45fc57",
+            "payoutAmount": 0.23070072219018514
+        },
+        {
+            "address": "0x4effed9a98c0a752dffff18d4f6f6500c69972c9",
+            "payoutAmount": 0.22814713070376388
+        },
+        {
+            "address": "0xd0479911b769e53fc1674679910b2cbeb672094e",
+            "payoutAmount": 0.22774417501941763
+        },
+        {
+            "address": "0x46185b05ddf0bc7e3ea3dd994c39d29612f3c0ee",
+            "payoutAmount": 0.2268193284909999
+        },
+        {
+            "address": "0xc61f54576958361309f31ff5548d2c7556e274ed",
+            "payoutAmount": 0.22519142577207746
+        },
+        {
+            "address": "0xe614f620e1ad131d9ef45343548c064faeff25af",
+            "payoutAmount": 0.22516941545997232
+        },
+        {
+            "address": "0x515fc4694e0aea001ec8a6542b1cf789e7a68335",
+            "payoutAmount": 0.22390015689221696
+        },
+        {
+            "address": "0xe2adf8b22acf982166ea8890cbd9c846ef5c5715",
+            "payoutAmount": 0.22125334089760276
+        },
+        {
+            "address": "0xf97be528811bdcf877ffe5de6b9ad8885044c029",
+            "payoutAmount": 0.2206961183230299
+        },
+        {
+            "address": "0x4606421d3bcb4e9a834aa80ab9ba9a4f3ca4c91d",
+            "payoutAmount": 0.22058250645705313
+        },
+        {
+            "address": "0x83563709305a9d2849505b4740fadcf7ebadc9c3",
+            "payoutAmount": 0.21838402197754378
+        },
+        {
+            "address": "0xcfa373fcf67e4071b5485192bfaf1d5597a473be",
+            "payoutAmount": 0.21805523289972917
+        },
+        {
+            "address": "0x2e64fc190d0e51fc683f7f50437d7bf52bd7f63f",
+            "payoutAmount": 0.2163578828935947
+        },
+        {
+            "address": "0x941d210d162305a9008050c1244e9afd435af145",
+            "payoutAmount": 0.2149968523145975
+        },
+        {
+            "address": "0xe42c4c5799e438d064e509980def622c2eed01d8",
+            "payoutAmount": 0.21409052289035702
+        },
+        {
+            "address": "0x09999f71b36b62a67eb63198deac911287a0133a",
+            "payoutAmount": 0.21367904922568176
+        },
+        {
+            "address": "0xd6eef32ad639a2ee5e0e0e6c7b8c7d34aa972ec3",
+            "payoutAmount": 0.21276134642117617
+        },
+        {
+            "address": "0x3db0049a26728f77e8acdb197772a8f54a52e1cc",
+            "payoutAmount": 0.21015775950997248
+        },
+        {
+            "address": "0x06fb00acdcdcfb902df9d101a718242b0bf94061",
+            "payoutAmount": 0.2099145230415357
+        },
+        {
+            "address": "0xb403313f4ee9c0d6fadb59d90fb005ada290ad17",
+            "payoutAmount": 0.20921408692639
+        },
+        {
+            "address": "0xc249342c862909335e57530153aee2d482af4f49",
+            "payoutAmount": 0.20911480058183254
+        },
+        {
+            "address": "0xb8a40d97a5e5e2353bd379c090a76714ee609781",
+            "payoutAmount": 0.20841139249455276
+        },
+        {
+            "address": "0xaa039b60db3c31160d50f65caffbf2d47cc438b7",
+            "payoutAmount": 0.20767829370289959
+        },
+        {
+            "address": "0x1aae9729a77642df9d86b65fcff297f5cecb710e",
+            "payoutAmount": 0.20588540194398516
+        },
+        {
+            "address": "0x7f3cd8d3a07823db94e6d52fab104cb97d96b18e",
+            "payoutAmount": 0.20394907899250606
+        },
+        {
+            "address": "0x849b0b5c45c186c687700d3e649290a50b803cba",
+            "payoutAmount": 0.20376654312274137
+        },
+        {
+            "address": "0x1e4115a154d6bedb6980cf823f0b83babf1f0ec6",
+            "payoutAmount": 0.20272247051655196
+        },
+        {
+            "address": "0x6aaf0512ab9fa79215b055360723d7272cf20889",
+            "payoutAmount": 0.20176248499950408
+        },
+        {
+            "address": "0xb8623c7e43db2d69a13d7911a4f28f322b89bbae",
+            "payoutAmount": 0.20122257533092192
+        },
+        {
+            "address": "0xf58c1c788afb549f199207053786c4d1ebc13a9f",
+            "payoutAmount": 0.2007878773247508
+        },
+        {
+            "address": "0x31e8d3b65aed1a4f93160e8e38c1476da8cbc69b",
+            "payoutAmount": 0.1997713320280183
+        },
+        {
+            "address": "0xb98b66360814fce7a5a1aa3527f4736fb30ddcd4",
+            "payoutAmount": 0.19899838572942102
+        },
+        {
+            "address": "0x32f3aff3e186bff721a0f26bdd7260049effebb5",
+            "payoutAmount": 0.1987769800734303
+        },
+        {
+            "address": "0x317734a38922d7d0380c1b59233bd8e9f8e1a03e",
+            "payoutAmount": 0.19764066028298194
+        },
+        {
+            "address": "0x158dcf22cd279c4e58a1bbdc8adba06097b267bb",
+            "payoutAmount": 0.1962030318650231
+        },
+        {
+            "address": "0xedaab3f4ff1e926e3951df52ec291da0ce43dd81",
+            "payoutAmount": 0.1944481013107475
+        },
+        {
+            "address": "0xf2f575702d47c2fae2f3abb2c62db66838c07f74",
+            "payoutAmount": 0.19370419927495713
+        },
+        {
+            "address": "0x2033d719bb0fa37da6a1d65864fa095e0d09cda2",
+            "payoutAmount": 0.19316688542218757
+        },
+        {
+            "address": "0xd6265ee43ff6088f7ae54a536e2fc8902ead33c5",
+            "payoutAmount": 0.1905748365828292
+        },
+        {
+            "address": "0xf678e4bd0bf00c8429f66ec7b2d2416c129b2c9e",
+            "payoutAmount": 0.19030676484909936
+        },
+        {
+            "address": "0x7ac770212e9ad22ae9053fbad61cfdabfc4e07bf",
+            "payoutAmount": 0.18735625549299656
+        },
+        {
+            "address": "0x1c8e08757c3668e1cb5b6a856ea82187bd0bb894",
+            "payoutAmount": 0.1873456195047483
+        },
+        {
+            "address": "0x34fce115fd934e80caa90c7dc6e5d4c186ccc127",
+            "payoutAmount": 0.18558139667246712
+        },
+        {
+            "address": "0x698b3ce99d5574bb24a40dbb184404fce39aae91",
+            "payoutAmount": 0.1851596281899922
+        },
+        {
+            "address": "0x1042e990b7d6daf384a6561f4b9f529a9d815479",
+            "payoutAmount": 0.18306632172156947
+        },
+        {
+            "address": "0xc6ba07fdeb15320df073ccb0da8c61111f5dc102",
+            "payoutAmount": 0.18240151614430758
+        },
+        {
+            "address": "0xd4386a878b76715537b2f030f11a4ac933906daf",
+            "payoutAmount": 0.18200048062802077
+        },
+        {
+            "address": "0x9d36764dc09fa24c537603826d440635a69d3134",
+            "payoutAmount": 0.1813183194928356
+        },
+        {
+            "address": "0x1fa72114cf810a5fa76d8905062d6c7e8758a105",
+            "payoutAmount": 0.18104966530880037
+        },
+        {
+            "address": "0x719dc085552281eff19807a6b8c522ba41ffa205",
+            "payoutAmount": 0.1796347807775761
+        },
+        {
+            "address": "0xc844b9c517c521f745384f2404449fd92b2de152",
+            "payoutAmount": 0.1794366144924755
+        },
+        {
+            "address": "0x1877c00d5a01bd6756534e68f90aa73e44380088",
+            "payoutAmount": 0.17807619681392917
+        },
+        {
+            "address": "0xe35032d351298594d6f47f26eb3a64b8ec9de12a",
+            "payoutAmount": 0.17784107192300957
+        },
+        {
+            "address": "0xd2017c770126cef8785db3b80d9c57d06f5990e5",
+            "payoutAmount": 0.17465230426981027
+        },
+        {
+            "address": "0x37f7aba2add0471261bcfb2dd08945d3c063a6a7",
+            "payoutAmount": 0.17440715814804056
+        },
+        {
+            "address": "0x4ed9736f883ace3ee6e11717a0396f86de29b6ab",
+            "payoutAmount": 0.17302625689480583
+        },
+        {
+            "address": "0x183c0325d014398e0bd6cae813992a633b41d7ba",
+            "payoutAmount": 0.17203125316921333
+        },
+        {
+            "address": "0x0f0321bee45d1d4bec7cace9de612415339ae0d1",
+            "payoutAmount": 0.17172395751502936
+        },
+        {
+            "address": "0x727222c3de6227757356728ff1806b8d7355a03f",
+            "payoutAmount": 0.170306165479415
+        },
+        {
+            "address": "0xfbcf37af9b1d9677cb0b09368fa118f5ede28fda",
+            "payoutAmount": 0.16607064945928485
+        },
+        {
+            "address": "0xc9aaac8af688bdae43c172f87d9852e8492fe073",
+            "payoutAmount": 0.16562652736986774
+        },
+        {
+            "address": "0xebb0492875b063977ac8243c1527a998199340d0",
+            "payoutAmount": 0.16440633488979198
+        },
+        {
+            "address": "0x87eed0128bd62c024c09585acbfa5df70d22cf0c",
+            "payoutAmount": 0.162732704094419
+        },
+        {
+            "address": "0xb2f431648069dcb4639bf36df492e58e7f35e693",
+            "payoutAmount": 0.15676273502239052
+        },
+        {
+            "address": "0x856a2711819dbb5d1af7b5cb4b3f732c1a7232c5",
+            "payoutAmount": 0.1560739459498877
+        },
+        {
+            "address": "0x0245ba7feb96990181e5bed79ecd407931c778a1",
+            "payoutAmount": 0.15548940957150026
+        },
+        {
+            "address": "0x69418237d0a4e88f482b042f249a75cd582989e8",
+            "payoutAmount": 0.15529793599923342
+        },
+        {
+            "address": "0xcbf8244b71d1a072737423fc2e53ce269f32ed3e",
+            "payoutAmount": 0.15351329383660353
+        },
+        {
+            "address": "0xc87dfb5d3d4386f650be0c20bde33527fc69d995",
+            "payoutAmount": 0.15264754042416256
+        },
+        {
+            "address": "0x94fb00856da627ff688994244c387f246d1887cf",
+            "payoutAmount": 0.1493240483003358
+        },
+        {
+            "address": "0x6213b88d0689c60b2b1c874334f6b43b5c07b5ca",
+            "payoutAmount": 0.14894917138142522
+        },
+        {
+            "address": "0xd7634c56eaaf14ccf5fb4e3f3d7073813da143e6",
+            "payoutAmount": 0.14850806659400037
+        },
+        {
+            "address": "0xfebb72deb78bea9e6b89ecef4714b0e5b59035b7",
+            "payoutAmount": 0.1472282638902097
+        },
+        {
+            "address": "0x5833235d8221cf0b8d47b952cf625d1ad82cb7ad",
+            "payoutAmount": 0.14574022664828915
+        },
+        {
+            "address": "0x13d1c504f438af711887ff34afaa613137d540e7",
+            "payoutAmount": 0.14512831368825105
+        },
+        {
+            "address": "0xbd0ca42fbc65c7e67220ec99c075697ef0a82c3e",
+            "payoutAmount": 0.14357783800234641
+        },
+        {
+            "address": "0xe03e33282857c8ae4e20a6ce3602bffd28d5c2bd",
+            "payoutAmount": 0.14352836638656705
+        },
+        {
+            "address": "0x2ffca59f8c5de5fdebf438eda846f72c87a34d3a",
+            "payoutAmount": 0.14174390124500716
+        },
+        {
+            "address": "0xc043c9cdb32342c277e9953804573373252fa479",
+            "payoutAmount": 0.1416453429248357
+        },
+        {
+            "address": "0x6c962db2c737665e78cb709afed1a9448ef50ccc",
+            "payoutAmount": 0.1414360736397259
+        },
+        {
+            "address": "0x84681d9d6e10f54731ccee80fc8b10064f3638cc",
+            "payoutAmount": 0.14120829963679302
+        },
+        {
+            "address": "0xd30f3f0f8343153c26663137dfa175c42c8f4df3",
+            "payoutAmount": 0.1403948051694893
+        },
+        {
+            "address": "0xa3854a3e4847433f58fed0c603a4eb01e2a8a4bd",
+            "payoutAmount": 0.13923731667692416
+        },
+        {
+            "address": "0xb51d04f935182dcc81f094a87ea7ca5a7da29a1b",
+            "payoutAmount": 0.13838751546936728
+        },
+        {
+            "address": "0x7fe12b35f6bc81d8bf5bfd1680fe8b896b150217",
+            "payoutAmount": 0.13711556925279933
+        },
+        {
+            "address": "0xbfa1636ee19d273e23b9f1b946edde047d76dfaf",
+            "payoutAmount": 0.13709671814553417
+        },
+        {
+            "address": "0xb04c0592a0feb3c9f3ac0952f95495be1b91faf6",
+            "payoutAmount": 0.13698573726156377
+        },
+        {
+            "address": "0x51010dd340de574d7dd0b7fa820f41822a174239",
+            "payoutAmount": 0.13689621364265397
+        },
+        {
+            "address": "0xaf612444968321099fb8f19b93877a8f8c92a723",
+            "payoutAmount": 0.13626328047092603
+        },
+        {
+            "address": "0xaff528458e374d6a335d782e5b85a8964aa74150",
+            "payoutAmount": 0.13576667650223911
+        },
+        {
+            "address": "0x9f83a430081fbc7d03b36c1115213de1d8217d83",
+            "payoutAmount": 0.13425105662028308
+        },
+        {
+            "address": "0x4386a86277a03ff37188416767ad74e4381b226c",
+            "payoutAmount": 0.13306144027418346
+        },
+        {
+            "address": "0x8c98c445cf2485826c01bc789b93eb94a64627e0",
+            "payoutAmount": 0.13304195607355063
+        },
+        {
+            "address": "0xe669ef639bf7b856a96169d410d429184a5ffbda",
+            "payoutAmount": 0.13055647789925978
+        },
+        {
+            "address": "0xb77dd1ed4c52819d7eeca57629d1679f0fafd96f",
+            "payoutAmount": 0.12975258641721488
+        },
+        {
+            "address": "0xd1da063637d33835f635c09c87065dc2fe688800",
+            "payoutAmount": 0.12880359422212143
+        },
+        {
+            "address": "0x796f8bf924ea4e7a7209b0d10ee4d69ee505d5bb",
+            "payoutAmount": 0.12800931137776297
+        },
+        {
+            "address": "0xee99463d0fbe8859fe0b74d317608c0912052887",
+            "payoutAmount": 0.1278672373914183
+        },
+        {
+            "address": "0x22253d6c9379b176440ebd8cd6b976d816e903a2",
+            "payoutAmount": 0.12738256947967672
+        },
+        {
+            "address": "0xebc71d2a556a237ae32c596c9771b6e0ee69ab5a",
+            "payoutAmount": 0.12509102338587
+        },
+        {
+            "address": "0x0df9bcadcd83be988952a73bd9e514159e8888d1",
+            "payoutAmount": 0.1249368610444029
+        },
+        {
+            "address": "0xfd65019b4ee47bbc4bc525abe41defc323a99e95",
+            "payoutAmount": 0.12466625786839318
+        },
+        {
+            "address": "0xc104e0471df1de8344942aa00e7582848b935eb5",
+            "payoutAmount": 0.12439344923738518
+        },
+        {
+            "address": "0x30a80d3e67822a0efa720013192d7b71d0f6d8e5",
+            "payoutAmount": 0.12396861595233162
+        },
+        {
+            "address": "0xc0e56f4b40531f4ca190fa330ab163b5b428e6f1",
+            "payoutAmount": 0.12376031897311895
+        },
+        {
+            "address": "0x282bf0742844c58103cf77f11a955b86e9da6d7a",
+            "payoutAmount": 0.12373581244031373
+        },
+        {
+            "address": "0x13ec911b287b1aefc3c9f4dd1b50068be0ebfdaa",
+            "payoutAmount": 0.12270041092308584
+        },
+        {
+            "address": "0xc5df3e29fc44c591c409a9ca3a46be2d6789e9cd",
+            "payoutAmount": 0.12260383356254656
+        },
+        {
+            "address": "0x416fc6fdf2185014c76f616267253d8f7a1dc8cf",
+            "payoutAmount": 0.12233432185258356
+        },
+        {
+            "address": "0xb9ffbb0cfc0a7a2ac212c6daeab80d741cee5eb0",
+            "payoutAmount": 0.11912545470946896
+        },
+        {
+            "address": "0xf3480c1945dbade803f3d716d191df8bfd638748",
+            "payoutAmount": 0.11867491382897401
+        },
+        {
+            "address": "0xeb3a7b0b86cd513278e96a91bd559209fa4717c0",
+            "payoutAmount": 0.1180766869832412
+        },
+        {
+            "address": "0xa5e0bb9335ed6b8e84db217a6ded086f191941c7",
+            "payoutAmount": 0.1175733738497001
+        },
+        {
+            "address": "0xf90afdb5dc102db08070de950602e4775dab3b91",
+            "payoutAmount": 0.11616829677246317
+        },
+        {
+            "address": "0x18ea132f82af160a9398e30f2f6071d14be6ce9f",
+            "payoutAmount": 0.11580267785483359
+        },
+        {
+            "address": "0xb1568cff2004a3ce35ddb0dbff9fa1c369f5f7d8",
+            "payoutAmount": 0.11573841948181744
+        },
+        {
+            "address": "0xd1a4acad88b96489762b7afbacdf1756556194be",
+            "payoutAmount": 0.11517715810730714
+        },
+        {
+            "address": "0x74778263f5d088afc4cb872af61cb5fa3e53634f",
+            "payoutAmount": 0.11503837327204723
+        },
+        {
+            "address": "0x0a345861c15887c48eac0d2c9a2c67e3802e8a10",
+            "payoutAmount": 0.11481414005555605
+        },
+        {
+            "address": "0x131e2c74a8acbb802b6b082f2c5cc06a97b40e40",
+            "payoutAmount": 0.11425873042541561
+        },
+        {
+            "address": "0xe1bf386615c5d3798101f8ee61b0f1050d93b638",
+            "payoutAmount": 0.1137261385898117
+        },
+        {
+            "address": "0xaf6960a3e58c656b0e25fb0f4c32ae6629b010a6",
+            "payoutAmount": 0.11171818300333826
+        },
+        {
+            "address": "0x7ad5d1899b147603eb79797de27b6e1e9b988d58",
+            "payoutAmount": 0.11064355094718438
+        },
+        {
+            "address": "0x0f0bb3a65587270e83249ee3663a3ad35d5205e8",
+            "payoutAmount": 0.1102754187744506
+        },
+        {
+            "address": "0x08f2184e570899b33591c6e78c07cd20a76fe1fc",
+            "payoutAmount": 0.10989559842956284
+        },
+        {
+            "address": "0x77045d94c71f3bf22a6f00ca87994b73f9d43707",
+            "payoutAmount": 0.10923154164422146
+        },
+        {
+            "address": "0xa1f3698a3330120a5ff30d1e2f0158748d1116f7",
+            "payoutAmount": 0.10919085944650538
+        },
+        {
+            "address": "0x2b656fd8367d19e30c01487a596d9ed5a4356a88",
+            "payoutAmount": 0.10911553706891425
+        },
+        {
+            "address": "0xaefcec355ce9828d6091ffd2833a1798b1fee1cd",
+            "payoutAmount": 0.10911021059761668
+        },
+        {
+            "address": "0x21b1b8eaea8a16e9da9b076135e3d76892cdb107",
+            "payoutAmount": 0.10892319489055764
+        },
+        {
+            "address": "0xd95624f5030ca4d7e14d4ebac92ddedd04f5ff53",
+            "payoutAmount": 0.1065714705975356
+        },
+        {
+            "address": "0x81cd869ee0547cad5d448b0e9d6448d4be395ca5",
+            "payoutAmount": 0.10602176212396532
+        },
+        {
+            "address": "0x132396c28f690d55ee9a5771415469132aaf99e5",
+            "payoutAmount": 0.10567780878372872
+        },
+        {
+            "address": "0x21912f71f9181033a827f895b7ac1bc56468c1e0",
+            "payoutAmount": 0.10520210915112678
+        },
+        {
+            "address": "0x037c857a1539713a603aff705493a5a18167e565",
+            "payoutAmount": 0.10513540132876081
+        },
+        {
+            "address": "0x041ee803c6faf0ac48399e249b7aae2ffe72b4d7",
+            "payoutAmount": 0.10460282373261248
+        },
+        {
+            "address": "0x0d245cdcf1eeb95bbe3f4a66366ff27d04dfcbd9",
+            "payoutAmount": 0.10303952107772274
+        },
+        {
+            "address": "0x0ae44928af5602cd494e3c8cea982ec2b8c62949",
+            "payoutAmount": 0.10185829594040165
+        },
+        {
+            "address": "0x0388608780609c5bd3eaaaec86457049fc1930a0",
+            "payoutAmount": 0.10151693225728119
+        },
+        {
+            "address": "0x99c24f282384cb8100daf407e2dd6ae4fbaef242",
+            "payoutAmount": 0.10070660455165462
+        },
+        {
+            "address": "0xe55975468f374cc2ff7363dffe069c5a5cfc1199",
+            "payoutAmount": 0.10048173113878867
+        },
+        {
+            "address": "0x7ca256f198215414e637d595f281968c2d24c4e7",
+            "payoutAmount": 0.09958286035515153
+        },
+        {
+            "address": "0xf9c418ffa06f71a48fa04fc779621253b1ce688e",
+            "payoutAmount": 0.09945291805411408
+        },
+        {
+            "address": "0xa15a3b8f70a57706c9d4fbeadff2123aa3dcac7a",
+            "payoutAmount": 0.09812416917576142
+        },
+        {
+            "address": "0xa4f00b3bddb863de9ff26e0c1848243a0d975a6d",
+            "payoutAmount": 0.09762930547550046
+        },
+        {
+            "address": "0xd5e085c4a39e73985bfe74a9c262dfc60f2ebb43",
+            "payoutAmount": 0.09706915893247417
+        },
+        {
+            "address": "0xf7c786bcf81f14a703d2930e66330d09b6dd8929",
+            "payoutAmount": 0.0970052373604483
+        },
+        {
+            "address": "0x9e8c6962f0e510bea62dd967014c1b8627b31ac1",
+            "payoutAmount": 0.09694032198631675
+        },
+        {
+            "address": "0x95675e8e1fddfef20bda59be04056dffed5ff0f6",
+            "payoutAmount": 0.09688029674056148
+        },
+        {
+            "address": "0x8d77aa71e5193aae4a6144ea8cf3488c5092e3bd",
+            "payoutAmount": 0.09678114343890104
+        },
+        {
+            "address": "0x9aea0165dd26cb2b2993fac6cab0ed272ed33b46",
+            "payoutAmount": 0.09600326726781695
+        },
+        {
+            "address": "0xd1e8dc246046062c6ea7fcd9d8407d46c776fc9f",
+            "payoutAmount": 0.09496530278752685
+        },
+        {
+            "address": "0xe3c95f32b12b408f14f8625fe2d223276889f83f",
+            "payoutAmount": 0.09440224789662544
+        },
+        {
+            "address": "0xd62abaf14878f5050aea29fc04398ee72e0a5f0b",
+            "payoutAmount": 0.09385596479469632
+        },
+        {
+            "address": "0x8e89a7275e526355c03539976fb97372780d95a9",
+            "payoutAmount": 0.0937017585331292
+        },
+        {
+            "address": "0x5b2aba0da36828d68c825037c92d6f97a4571abe",
+            "payoutAmount": 0.0932794735425
+        },
+        {
+            "address": "0x6ed2a28ac3f5aa2bcbdf9d56a6a1e45dbbc6aa2a",
+            "payoutAmount": 0.0932456594100464
+        },
+        {
+            "address": "0x2f9a7335434d605df5401f141030722d815ae471",
+            "payoutAmount": 0.09244110815853032
+        },
+        {
+            "address": "0x744d892f01043753bf0cf2db657d9b952ae2dfe9",
+            "payoutAmount": 0.09193304426324093
+        },
+        {
+            "address": "0x8014f123e8e8b7efdc6a63c18cddf4a9f8b36821",
+            "payoutAmount": 0.09142789343885176
+        },
+        {
+            "address": "0x74ca383f1d0acffeea9771a69d7299b233cf1aef",
+            "payoutAmount": 0.09056346684090924
+        },
+        {
+            "address": "0x6179f8ca293c4342f79f0d4f38d4d0e34f568a28",
+            "payoutAmount": 0.08936659886112427
+        },
+        {
+            "address": "0xcb7a05beb11b7c245d27dc3bd45251824c32c588",
+            "payoutAmount": 0.08934136570746537
+        },
+        {
+            "address": "0x740eb6241fdc56a21bf21bc16ed00a565e1cd346",
+            "payoutAmount": 0.08914079321171038
+        },
+        {
+            "address": "0x72da31f28dc9fc90d217134653644c2ad5eabe32",
+            "payoutAmount": 0.08884361578493077
+        },
+        {
+            "address": "0x10a503f21d42498f780943f991880a969859c939",
+            "payoutAmount": 0.08851586025801927
+        },
+        {
+            "address": "0x5f2102292546f20494137171fce5a9c70349ae34",
+            "payoutAmount": 0.08850489616714531
+        },
+        {
+            "address": "0xd0136342d5cd6b8c3bae52e3d74d05a38819e696",
+            "payoutAmount": 0.08792457875198881
+        },
+        {
+            "address": "0xda5ebb6d78b7f86530e05ccc22ad2031b5ea1c60",
+            "payoutAmount": 0.08704813765559093
+        },
+        {
+            "address": "0xe518d924243fb9c442e8e344cea4f18bb37d7e63",
+            "payoutAmount": 0.08681569429244297
+        },
+        {
+            "address": "0x2e5909a2fb63ea75056936a1d7263f533e9ec358",
+            "payoutAmount": 0.08640312921086372
+        },
+        {
+            "address": "0x738cdcde2afef0383bc46e5d502f9c6763c81af7",
+            "payoutAmount": 0.08627697079233564
+        },
+        {
+            "address": "0x8ec245fb77b7b4abd3f034eb0367543b8521a83d",
+            "payoutAmount": 0.08619049031917408
+        },
+        {
+            "address": "0x4bdf8103aa888b6674ffb54cab49147b1e69954b",
+            "payoutAmount": 0.08615801025007432
+        },
+        {
+            "address": "0x699906c0a589234526f9c785383d587f4a6e50ee",
+            "payoutAmount": 0.08610235768163753
+        },
+        {
+            "address": "0x193eb02ba60e5c8259edfa9b77648e64ec45fb0b",
+            "payoutAmount": 0.08589138747800242
+        },
+        {
+            "address": "0xdecb516424ae6b778c2bdf8ea12183d063fe1bbf",
+            "payoutAmount": 0.08528336187892481
+        },
+        {
+            "address": "0x773b9d1358e68c56654d2167eb5136f9ff3f9025",
+            "payoutAmount": 0.08494799287149475
+        },
+        {
+            "address": "0x4511c82575017719c3887c78387e9909331d655e",
+            "payoutAmount": 0.08389470201808424
+        },
+        {
+            "address": "0x1a4edff5fa2c6116f36c4c950f6bbcda46d74177",
+            "payoutAmount": 0.08363309991182641
+        },
+        {
+            "address": "0xf0c199baefcc76cc1480384456eacbefc032fc0e",
+            "payoutAmount": 0.08319224437903586
+        },
+        {
+            "address": "0x12c8538d3e7d9708341ad389830d3973320f7d15",
+            "payoutAmount": 0.08246548931071562
+        },
+        {
+            "address": "0x63d053bcdd8dafe5980f1383308f4885088f0e02",
+            "payoutAmount": 0.08236807865613524
+        },
+        {
+            "address": "0x6edb42efcdfd6fc84018ed76fa5da5be840c10aa",
+            "payoutAmount": 0.08181591111868713
+        },
+        {
+            "address": "0x524e204aef10bd549ea68a2f47431ef7d9887ef1",
+            "payoutAmount": 0.08119001667592067
+        },
+        {
+            "address": "0xb5ecf5ea43f9978b2f4953789f6e2278cb19c128",
+            "payoutAmount": 0.08092806299264639
+        },
+        {
+            "address": "0xcb47b618f3f1d9768f54bf77785d2d721fcdfb10",
+            "payoutAmount": 0.08086218028681215
+        },
+        {
+            "address": "0x068b33bcde955772e33b9fdc41e515365cb6977d",
+            "payoutAmount": 0.08084909677742357
+        },
+        {
+            "address": "0xb0bd1632c055a484cf4cfacab781a41c6f248bf1",
+            "payoutAmount": 0.0801341375473536
+        },
+        {
+            "address": "0x50c7479f5f4aaabda9978ccd1dfeec95abff5f27",
+            "payoutAmount": 0.07973080673791838
+        },
+        {
+            "address": "0x32f07a35b61072f0331dd8fcf09455dfdc58f1f6",
+            "payoutAmount": 0.0793456355873698
+        },
+        {
+            "address": "0xdb52bb096e58ec1c6eae8a2b42dcb54bda1e20f0",
+            "payoutAmount": 0.07920033993704455
+        },
+        {
+            "address": "0x38880067b65849ddf7a8725538928940207cb4ea",
+            "payoutAmount": 0.07863681107421795
+        },
+        {
+            "address": "0x5fba6be592389538b9d8419b6011b27d66ee7a6f",
+            "payoutAmount": 0.07843071487145171
+        },
+        {
+            "address": "0x30f4d7900eb6667f0bcdc739094790042707f209",
+            "payoutAmount": 0.07728933389617831
+        },
+        {
+            "address": "0x4d2f25862d14ae6b8ae836ad987f3fdcca5f38cf",
+            "payoutAmount": 0.07700155725613245
+        },
+        {
+            "address": "0x048b083453710e52d2417d97373f07bc87d7e037",
+            "payoutAmount": 0.07692592936358926
+        },
+        {
+            "address": "0x811b3af7bb85cba813d317a8170da3d3f8e302be",
+            "payoutAmount": 0.07670733585133908
+        },
+        {
+            "address": "0x242774d0e0897542699e31b274735df79122cc77",
+            "payoutAmount": 0.07668012011085504
+        },
+        {
+            "address": "0xccf4626729109dade0642ca81b744cbc27966da6",
+            "payoutAmount": 0.07623553470900965
+        },
+        {
+            "address": "0x040fc804f38dbb3fe1a55afe17053c389a2a7cb6",
+            "payoutAmount": 0.07619444290723157
+        },
+        {
+            "address": "0xe66924f76bf71e785ab13059a4cf42432497d351",
+            "payoutAmount": 0.07551799427335289
+        },
+        {
+            "address": "0x0b5196b0a9819c74bf0f6ab1b4819eaec29f38a8",
+            "payoutAmount": 0.07494487140722511
+        },
+        {
+            "address": "0x7276f913880cb8c4b3aa3a655b450fc90c1c445c",
+            "payoutAmount": 0.0745030226363674
+        },
+        {
+            "address": "0x7844f9aa1e9f1e1450a0c97ffe969e0f556334a6",
+            "payoutAmount": 0.07401677720475057
+        },
+        {
+            "address": "0x5a9ed630374ab5df53331348138c3add829fe2e8",
+            "payoutAmount": 0.07299019548994891
+        },
+        {
+            "address": "0x9b6a05751e4c0a68440ab7a36537757cea89fb31",
+            "payoutAmount": 0.0728977499399659
+        },
+        {
+            "address": "0xa6b6511aa3eba7a5b1430063ba595d1852d9fbc1",
+            "payoutAmount": 0.07209916932510842
+        },
+        {
+            "address": "0x2905d44a7e655ad2a27941404f1131312236ee98",
+            "payoutAmount": 0.07174759010700996
+        },
+        {
+            "address": "0xbd2ba7cf8ef6f353ef71363008932414fb5a6d16",
+            "payoutAmount": 0.07136091023087109
+        },
+        {
+            "address": "0xeb3e1fe168f92c6917670bbe890a5104523e58fe",
+            "payoutAmount": 0.07100730942794951
+        },
+        {
+            "address": "0xc846f271cd0b6f2a6a35e09e2de27d848b87b6b2",
+            "payoutAmount": 0.07057952725591603
+        },
+        {
+            "address": "0xa1b91b959842a079303d5406964e69023d87b9b8",
+            "payoutAmount": 0.07014333950964406
+        },
+        {
+            "address": "0x1e4028476e0d7b9cdc211cb809388acf1d16457a",
+            "payoutAmount": 0.07014187996174538
+        },
+        {
+            "address": "0x961d45aed3fc3686727e220662c2954fd9aa0708",
+            "payoutAmount": 0.0700715827975391
+        },
+        {
+            "address": "0x3419e4893c34a435831b467bb3c33c4d1fe3ae3f",
+            "payoutAmount": 0.06990934029283391
+        },
+        {
+            "address": "0x4670700a6fb50aa2a396871ad7498053c563adf3",
+            "payoutAmount": 0.06983403616703833
+        },
+        {
+            "address": "0xb26d8a2fa7df81f55d6643a28028c15cb64eda9d",
+            "payoutAmount": 0.06970048357717651
+        },
+        {
+            "address": "0x2f6c777a74d1a725c55778e83d10cf6df8d5642b",
+            "payoutAmount": 0.06932990480359323
+        },
+        {
+            "address": "0xfbaa93cc27c28c7a645d24be25ae46cd38fbd6e9",
+            "payoutAmount": 0.06909655061469894
+        },
+        {
+            "address": "0x9f7d69607c6fa8d74ea7fb0c3f9000196aefb763",
+            "payoutAmount": 0.06862147112108305
+        },
+        {
+            "address": "0xeafe26a1b05fb9cb2876df280fa583383968813b",
+            "payoutAmount": 0.06720681253461601
+        },
+        {
+            "address": "0x5525637af94dd714280c2e952800b7173e7676b9",
+            "payoutAmount": 0.0671493907446372
+        },
+        {
+            "address": "0x2c982e28a659fb0a1402c39693414d7f6c64fc17",
+            "payoutAmount": 0.06682657732243473
+        },
+        {
+            "address": "0x8eefc77f39e27b69f692ac5194d5d185bb3c7bee",
+            "payoutAmount": 0.06662300314242525
+        },
+        {
+            "address": "0xc4ca09cf7ec8993e433f3a276b48fcf75d96c2c4",
+            "payoutAmount": 0.06612208485868566
+        },
+        {
+            "address": "0x9737687770f3d5dc11c0310644881ae01cffa496",
+            "payoutAmount": 0.06604685345269237
+        },
+        {
+            "address": "0x05eba2942b0685799ada3368cd01dfe03b63810f",
+            "payoutAmount": 0.06592447671107603
+        },
+        {
+            "address": "0x167abf3325eb715ea1cd8a2decbb4d29427af8bd",
+            "payoutAmount": 0.06384897503115715
+        },
+        {
+            "address": "0xf73c740dd9190cdca815aeaf06af76014ff72fe8",
+            "payoutAmount": 0.06370740734131258
+        },
+        {
+            "address": "0xf0063e2857c9985e675052d99a9bddc9407375a5",
+            "payoutAmount": 0.06328678532464865
+        },
+        {
+            "address": "0x130421c8673d3a690f9dd130506e2b6f280b986a",
+            "payoutAmount": 0.06306613854701788
+        },
+        {
+            "address": "0xf6a103a67cc5e48048ab58a0f07183735640bfb8",
+            "payoutAmount": 0.0613908939545013
+        },
+        {
+            "address": "0x85048e248f46895931b596f07f342dff005be658",
+            "payoutAmount": 0.061165982004817696
+        },
+        {
+            "address": "0x28ab13becd36431af4b5fcc58de8811731e86ee3",
+            "payoutAmount": 0.06111420305634889
+        },
+        {
+            "address": "0x20e24f1c9fe417d2d8e34aaa356f3e99cf734ef2",
+            "payoutAmount": 0.060702210138109725
+        },
+        {
+            "address": "0x50d45f4424508e29cf0650aab2bc2dd61f8f1a0e",
+            "payoutAmount": 0.060592419706457935
+        },
+        {
+            "address": "0xca9cd613d990c0c33490e37c80005f30a0235e28",
+            "payoutAmount": 0.0601823755162831
+        },
+        {
+            "address": "0x170ce8368d1b990cf26e441101b211772ced072d",
+            "payoutAmount": 0.06006033667442578
+        },
+        {
+            "address": "0xae98d46ac2a4fe7707a2cdd605bf613a5c8bda70",
+            "payoutAmount": 0.05930331708092677
+        },
+        {
+            "address": "0x7b2a0b21c97e13ba670a5079043b1406ad6965c8",
+            "payoutAmount": 0.05827301335350862
+        },
+        {
+            "address": "0xe3d9986018d58daa32e23da0d3588f25447f1dd0",
+            "payoutAmount": 0.057295496098676145
+        },
+        {
+            "address": "0xd2399362a01ee1e6ed5b7b948a10e671123ab4f3",
+            "payoutAmount": 0.05700238903897331
+        },
+        {
+            "address": "0x90fee9e3aa7b674c071541da385fb7f529c69917",
+            "payoutAmount": 0.056716607920572176
+        },
+        {
+            "address": "0x1f063f4dfb5a474ffd8b8a71b04a77cd42c3f81a",
+            "payoutAmount": 0.056511741126189244
+        },
+        {
+            "address": "0x4ddf4d1344c1680761baac4a149968cc58baa573",
+            "payoutAmount": 0.056437064153238216
+        },
+        {
+            "address": "0xdff49e237fff2abfeaafac80d82650aeb7bf29c6",
+            "payoutAmount": 0.055236887663855226
+        },
+        {
+            "address": "0x1e1234edf9c2dfa2d59331ea8236ad5a33a55bfe",
+            "payoutAmount": 0.05515159790849043
+        },
+        {
+            "address": "0xc0ed8cbbafa6849a0dfdc9f61584fa395741c56a",
+            "payoutAmount": 0.055149330069325084
+        },
+        {
+            "address": "0x45e64a6261388aa9412c8dec0a06628e5cf10670",
+            "payoutAmount": 0.055050762093353335
+        },
+        {
+            "address": "0xaa9f3960143380877727a54faf646dcd57800085",
+            "payoutAmount": 0.0543282256726988
+        },
+        {
+            "address": "0xa7bbf568bc68b1e9e16cdb07902912754824b970",
+            "payoutAmount": 0.05431938092960321
+        },
+        {
+            "address": "0x4b7d1be744097df8a2d8f990f67b7a95314c2eff",
+            "payoutAmount": 0.05421112491404547
+        },
+        {
+            "address": "0x9203106e48dfd3b2c3af7b446ecf7113429c3314",
+            "payoutAmount": 0.053665315686558024
+        },
+        {
+            "address": "0xe00e15a346e69a8c9287b98dab82f68845724a47",
+            "payoutAmount": 0.05331959528314954
+        },
+        {
+            "address": "0xd42b607471e3761d8f98a212b89812831778274b",
+            "payoutAmount": 0.053178593777727205
+        },
+        {
+            "address": "0xa6a35d7248092cbc5af0395856a7cbc9744f1ab7",
+            "payoutAmount": 0.05304296310209274
+        },
+        {
+            "address": "0xdd2424dee29c06b9eca9b91c1c0cbceb86b209c2",
+            "payoutAmount": 0.052684754010791604
+        },
+        {
+            "address": "0x41ce9657aa18fe94a119d63e81111fca1ee6c3c9",
+            "payoutAmount": 0.05254639716383397
+        },
+        {
+            "address": "0xb88aa79c64298768e727f7424269e8e9a671686a",
+            "payoutAmount": 0.052060404088775235
+        },
+        {
+            "address": "0x3616edf5f98e95f0babb68525e1786a6414ba085",
+            "payoutAmount": 0.0515130487236848
+        },
+        {
+            "address": "0x9175e630ad0e7a4fdba55e98040e00598d8e5c52",
+            "payoutAmount": 0.05150578942642066
+        },
+        {
+            "address": "0x054306585f781e0d7901bb41dd18880fd55f2f62",
+            "payoutAmount": 0.051108274760939425
+        },
+        {
+            "address": "0xa63ae063678a8c565dbd4ae598221b3d1c584085",
+            "payoutAmount": 0.050794596199022816
+        },
+        {
+            "address": "0x4b3b2205edfe666a8f050db455a2bb780768f5b9",
+            "payoutAmount": 0.05070494590721068
+        },
+        {
+            "address": "0xb751c659d480263c5bd10cb921adbbc884955c4b",
+            "payoutAmount": 0.05070382550958805
+        },
+        {
+            "address": "0x59d26fc8304d0d84e1ff27ac98b5473bf93e1097",
+            "payoutAmount": 0.05060898993325592
+        },
+        {
+            "address": "0x524da1e701cd5015be351d2d9e993ce85685cb94",
+            "payoutAmount": 0.050599723496922384
+        },
+        {
+            "address": "0xd49c57ca869cbc198c1d3718da773c198a20bd3c",
+            "payoutAmount": 0.050259888463470126
+        },
+        {
+            "address": "0xcc06b695e9e5300b781c897e96db64a2111abc26",
+            "payoutAmount": 0.04974867934351929
+        },
+        {
+            "address": "0x9429b32031e11eaac2e5cef3400ce326a34607b4",
+            "payoutAmount": 0.04867818160085055
+        },
+        {
+            "address": "0xba32f64a77884b53816027dc7b3bb1d3badc7ddc",
+            "payoutAmount": 0.047874563439884985
+        },
+        {
+            "address": "0x32692edbb8fd15269d2f03bf16f66ab2f9601f88",
+            "payoutAmount": 0.047088217148283894
+        },
+        {
+            "address": "0x392827cd3d1c9f30dc74a8a6546c82fa1fd625b7",
+            "payoutAmount": 0.04639520415760562
+        },
+        {
+            "address": "0xdc9bfbeab595dfe2fadd8f38a63df9e4de8c7182",
+            "payoutAmount": 0.04608922516839339
+        },
+        {
+            "address": "0x785550f5509a2b630c8f1ed1ced0b930864f8a51",
+            "payoutAmount": 0.04582523301444888
+        },
+        {
+            "address": "0x83342fa474a6181d898d340e3edc5b58e9d86d26",
+            "payoutAmount": 0.04532174413264892
+        },
+        {
+            "address": "0x4941adc3059a5f4e16d0063e970df86d9727e8dc",
+            "payoutAmount": 0.04506696571377176
+        },
+        {
+            "address": "0x5aca27aee06a4ac9c839415271bbc4558f8b7679",
+            "payoutAmount": 0.044433654236596176
+        },
+        {
+            "address": "0x930a8f7bd6fa77cb7004163dc63edabe9844cfbe",
+            "payoutAmount": 0.04410914251210258
+        },
+        {
+            "address": "0xf5e5fd47357acd775ecc9a7dbb3da619cfa7267a",
+            "payoutAmount": 0.043891136844372375
+        },
+        {
+            "address": "0x1927e9096c7b80e49b3957d1ffcbe0f774d41578",
+            "payoutAmount": 0.04388817400501907
+        },
+        {
+            "address": "0x4067e73fc8bccc23b7ce2ac19f32535ac5109ac9",
+            "payoutAmount": 0.04388570066604546
+        },
+        {
+            "address": "0x5a982abfad549553dfdc1147a8859dab476d0c23",
+            "payoutAmount": 0.04346336533776212
+        },
+        {
+            "address": "0x141768e67a84ac5f2d1a3a374d975c1f36eb2a60",
+            "payoutAmount": 0.043443681015040564
+        },
+        {
+            "address": "0x221ef0d8df82e627bf132d16900d530c1e565818",
+            "payoutAmount": 0.04326638027398167
+        },
+        {
+            "address": "0x56d7346cd1799425d5df7f31464886b2b37563f0",
+            "payoutAmount": 0.043248249746377684
+        },
+        {
+            "address": "0xa08bb194c191ca6f2721190b0e798d8af4bd9a9f",
+            "payoutAmount": 0.04275858129433496
+        },
+        {
+            "address": "0x4aafab37425ed4b32d21dd2041ee8244a5f0b798",
+            "payoutAmount": 0.04243040072917735
+        },
+        {
+            "address": "0x8539d8cef9644f209c43b6aa756c41c16a0d2b8b",
+            "payoutAmount": 0.04237478423971416
+        },
+        {
+            "address": "0x1cddba523f08023de8dc17c25e38a4a4b673cf91",
+            "payoutAmount": 0.04215061568938887
+        },
+        {
+            "address": "0x32bd7866c7148ef8497fb106d8c7129096d938ba",
+            "payoutAmount": 0.04210005605199041
+        },
+        {
+            "address": "0x3876879ed171b1372351c0370ad0375945943a33",
+            "payoutAmount": 0.04187562324352193
+        },
+        {
+            "address": "0x27526149476de8063747953424d21e42931a3701",
+            "payoutAmount": 0.04143862002241639
+        },
+        {
+            "address": "0x0599f58f04c4fc127f2e6a1bcc73486ba11b16cf",
+            "payoutAmount": 0.04143849323039404
+        },
+        {
+            "address": "0x7d592ae30fea99384e00488f2dd046e20ab220b1",
+            "payoutAmount": 0.041397712822289726
+        },
+        {
+            "address": "0xc7740884c8099a7d57811c6c44613c704d50993d",
+            "payoutAmount": 0.04092832745101344
+        },
+        {
+            "address": "0x61007df11b087df4172ddf908aae843d29b33ae3",
+            "payoutAmount": 0.040869380325073486
+        },
+        {
+            "address": "0x2adc1f58f3893cecb2e771b3b63c1d649e5bafc4",
+            "payoutAmount": 0.040781462499600296
+        },
+        {
+            "address": "0x5c8c31f95f2d88dff8c126058eef57ecb87c3c58",
+            "payoutAmount": 0.04042648535788632
+        },
+        {
+            "address": "0xd01a8ef84ba2f01849f2f186a2c24ba8506c76a1",
+            "payoutAmount": 0.04022703322894915
+        },
+        {
+            "address": "0x3da5c1d7cb6f327cdec2b150c93c2a3608ed7572",
+            "payoutAmount": 0.039357040351512315
+        },
+        {
+            "address": "0x3c451f7eaca4c2a935f8db202084047cc1bfc8f7",
+            "payoutAmount": 0.038633874342585556
+        },
+        {
+            "address": "0xcc1f856bdb01239f7ae0560389616c47660c3116",
+            "payoutAmount": 0.03726836355815569
+        },
+        {
+            "address": "0x2d8981e8d63edc91f9c4b84341a7ef2b2b349ad9",
+            "payoutAmount": 0.037207770408734256
+        },
+        {
+            "address": "0x25275c292ca292fa60e1662412d7fbfdd2e3c689",
+            "payoutAmount": 0.034960334491875064
+        },
+        {
+            "address": "0xa3e1f7f2a7118d48a7b8b3a0b9269627c0d2e0c9",
+            "payoutAmount": 0.03479721635260007
+        },
+        {
+            "address": "0xccdd6e2e74cf6daabfb37a5821992b3759c27e8e",
+            "payoutAmount": 0.03440876450200189
+        },
+        {
+            "address": "0xdb642a5e1a78ae717dd594e688f8f6ca9fb4527c",
+            "payoutAmount": 0.03379758440984892
+        },
+        {
+            "address": "0x8e65b44c8cc04e9999fffcc39dd4ca3bac580e81",
+            "payoutAmount": 0.033579699547269005
+        },
+        {
+            "address": "0x9142a918df6208ae1be65e2be0ea9dad6067155e",
+            "payoutAmount": 0.033514099761391705
+        },
+        {
+            "address": "0x90150002c5a432103f300b1af449bb973f660854",
+            "payoutAmount": 0.03343434871732315
+        },
+        {
+            "address": "0x296afa0be6cae58d4fe869c59d0243455d66107c",
+            "payoutAmount": 0.03327644659137356
+        },
+        {
+            "address": "0xa0a28ac10780566ee7f8751852adbbed2e319f18",
+            "payoutAmount": 0.033112947189033286
+        },
+        {
+            "address": "0xaa5e345d8890fb41f3eedbe9a742ed35e3f3bd86",
+            "payoutAmount": 0.033035372067820125
+        },
+        {
+            "address": "0x1b2978d51470d1cd7c4aab685d97a1ca0c7ff5d6",
+            "payoutAmount": 0.03264189847308701
+        },
+        {
+            "address": "0xb3c253d80578f569cfd4fe2e916edbf01b384577",
+            "payoutAmount": 0.032324159851698904
+        },
+        {
+            "address": "0xbe775e3ab0ff7b38fb3523cddb4ead4056864b22",
+            "payoutAmount": 0.0319054152547268
+        },
+        {
+            "address": "0x0a6c125ec001a07bbfd2390191cbb459cef40bc4",
+            "payoutAmount": 0.03185164754547861
+        },
+        {
+            "address": "0x93c0fc3cb1f57d325a4224c183a5213f13195bad",
+            "payoutAmount": 0.03148497922442373
+        },
+        {
+            "address": "0xadb79eaf12c013d4170ba7841b04223739860b6f",
+            "payoutAmount": 0.03146611637307367
+        },
+        {
+            "address": "0xbd7348a8302d73782be4b4c3e959ecbcad26fe2d",
+            "payoutAmount": 0.0313630591107965
+        },
+        {
+            "address": "0x77a7494bd3a761d4b83ceda20a226af854a2fde2",
+            "payoutAmount": 0.03080216627377033
+        },
+        {
+            "address": "0x6fe6dcfa99460f30e533b634d83d6a5ec9e997eb",
+            "payoutAmount": 0.030692714453844413
+        },
+        {
+            "address": "0x050496b6c5cd015e7bdda28ade8e3c10e4a46e45",
+            "payoutAmount": 0.03030486200258153
+        },
+        {
+            "address": "0xa31d236976281d27c1a3ae689689f4f8c1456797",
+            "payoutAmount": 0.03027185375069644
+        },
+        {
+            "address": "0xabfef669ad4d4bfe0f9a70b2b4c99e3c7b13e041",
+            "payoutAmount": 0.030030285041266907
+        },
+        {
+            "address": "0xd0997e552e70baae348322d24d8bf3fa75264cc3",
+            "payoutAmount": 0.030017842209707032
+        },
+        {
+            "address": "0x6fd2acceb7a436528d4380584f39dfa78d28c8bc",
+            "payoutAmount": 0.029759985383527327
+        },
+        {
+            "address": "0xfec703f1a8aec3556be25268ca89f7045a9fe5b3",
+            "payoutAmount": 0.028713769094372805
+        },
+        {
+            "address": "0xca9241f7ed3652d0575fcaf9bb2879112d710927",
+            "payoutAmount": 0.028651697352530484
+        },
+        {
+            "address": "0xf50ad6ab9e78461628031cd2646d1a72c6c4b952",
+            "payoutAmount": 0.028400733027253714
+        },
+        {
+            "address": "0x72a6b98ebba0a42848fd72b3f0ba7733009a0677",
+            "payoutAmount": 0.028391800171915886
+        },
+        {
+            "address": "0x5fe281a095051af7b5915389d4506406eaaad486",
+            "payoutAmount": 0.028222736847750007
+        },
+        {
+            "address": "0x932fa4a3979f13cfa1cdb4777e93084bdb932435",
+            "payoutAmount": 0.028200642566606825
+        },
+        {
+            "address": "0x27b68bf0d47d4666a97edc635452dd5b9301e892",
+            "payoutAmount": 0.028049571610305298
+        },
+        {
+            "address": "0x27d382d788ef7729070487f17db723ad4d650989",
+            "payoutAmount": 0.028049404726491336
+        },
+        {
+            "address": "0xc307e8ffaae2c371c9dfc55d37737d8c0c148791",
+            "payoutAmount": 0.028025683704934704
+        },
+        {
+            "address": "0x552a4da26176e21ce074565f60e753966a306a2c",
+            "payoutAmount": 0.027623901320821063
+        },
+        {
+            "address": "0xde258eab495da1fe4521a33aabad241518dafe8e",
+            "payoutAmount": 0.02649578431832689
+        },
+        {
+            "address": "0x7015effcebfa8b119d4bed191df11ede1161f7cd",
+            "payoutAmount": 0.026343034184631388
+        },
+        {
+            "address": "0x3040800cb4331f89136b756b3e20ffc56c06bc93",
+            "payoutAmount": 0.026242433819939813
+        },
+        {
+            "address": "0x3c9631f4e985da42aa492e8e80d8b88e20c0b1be",
+            "payoutAmount": 0.02601428865881821
+        },
+        {
+            "address": "0x3e9e1bc32b1b45ad31580fcb9f3307284e418c74",
+            "payoutAmount": 0.025630335609518776
+        },
+        {
+            "address": "0x49db95c218708d4edc82964da43a66633af6ea1c",
+            "payoutAmount": 0.02560964928113863
+        },
+        {
+            "address": "0x76bb09c230c8039d212b7d6c62ac9782fb6b05c7",
+            "payoutAmount": 0.02546987259265916
+        },
+        {
+            "address": "0x4958a0699273cef5460fb263540791cb4e6067a8",
+            "payoutAmount": 0.025223106754113385
+        },
+        {
+            "address": "0xc5f2f6471094ef6e6beb8e6af025dc22fd2153f4",
+            "payoutAmount": 0.025207582823481463
+        },
+        {
+            "address": "0xef9d50b14839ad61a68aaf9c92a305b18e46a5d0",
+            "payoutAmount": 0.02481173272147554
+        },
+        {
+            "address": "0x4b99d6e04104bf2d7eb941e28cda16730e9112c3",
+            "payoutAmount": 0.02477036833293489
+        },
+        {
+            "address": "0x3eb8627b20e7b3f74f6ce5eac500a1ed22d592cc",
+            "payoutAmount": 0.02467582667822941
+        },
+        {
+            "address": "0x71c651a1b65ae4cb0956063b3de1b53cf174fefa",
+            "payoutAmount": 0.024528737536699246
+        },
+        {
+            "address": "0xb6faf94686c33b69bbc8b94c59adfdba15883a42",
+            "payoutAmount": 0.024160763646220263
+        },
+        {
+            "address": "0x161b8e754a0e9089a9875373d0524297b6770651",
+            "payoutAmount": 0.02373883642298622
+        },
+        {
+            "address": "0x55218c9fd4d9c7dea84ec5a084cc84689d7e98a4",
+            "payoutAmount": 0.02337925709224755
+        },
+        {
+            "address": "0x458efc48229662198c07f2b8da2e058ebb2e7a35",
+            "payoutAmount": 0.023243816249999997
+        },
+        {
+            "address": "0xd8d109488f746b35772f1f06cfaba4b9de4d3cf8",
+            "payoutAmount": 0.022707757387502404
+        },
+        {
+            "address": "0x249802982b3f69c2f1aabb0d24a6366ad0262947",
+            "payoutAmount": 0.022193480321953136
+        },
+        {
+            "address": "0xb9b9b4318375daa2ab1897b73cb0d4fb27886008",
+            "payoutAmount": 0.021866476407522185
+        },
+        {
+            "address": "0xece85a332243cb999b721f83c62ec19e66b9cb0a",
+            "payoutAmount": 0.021082220504979456
+        },
+        {
+            "address": "0x3feb8b80e1ea1f69138c1e61493692cfcd9cc410",
+            "payoutAmount": 0.02104906766424542
+        },
+        {
+            "address": "0xf64ba078e6732b6ba29b398b4f04759b43cc9911",
+            "payoutAmount": 0.02103415849
+        },
+        {
+            "address": "0xcaea3446543beb8015f2933578cdefcec6c4b4f1",
+            "payoutAmount": 0.02097207550553819
+        },
+        {
+            "address": "0xe252a26b26c720bdf852886f27c44182966c278c",
+            "payoutAmount": 0.020971790275669033
+        },
+        {
+            "address": "0x92440e0b866e258c47c4e2286d467387465cbd5b",
+            "payoutAmount": 0.020971766339750827
+        },
+        {
+            "address": "0x1e1b21ff5ff1a7b6a81d8f71125221755b01ae74",
+            "payoutAmount": 0.02097072173308097
+        },
+        {
+            "address": "0x14f771c7407b5fa0e832fef1484ba24e567f55ff",
+            "payoutAmount": 0.02071246601268168
+        },
+        {
+            "address": "0xa25ced3b97a1bcffa7fbe61cb36d10ecc5165d1f",
+            "payoutAmount": 0.02067536253116641
+        },
+        {
+            "address": "0x3d94caa6051890da9d01d01f5a232a4ad78669bb",
+            "payoutAmount": 0.018256070790931476
+        },
+        {
+            "address": "0xccd96e81c1082da5c5cda2e9072b2cd0565daf87",
+            "payoutAmount": 0.01771323918418088
+        },
+        {
+            "address": "0xa0d2e3b2f3666be3d70c92447bd3bbc16a49739e",
+            "payoutAmount": 0.01667122377831863
+        },
+        {
+            "address": "0xa68fa6cf3425949e2aeaa7e188c613c0c1cdc8d1",
+            "payoutAmount": 0.016655527644965726
+        },
+        {
+            "address": "0x6a89bd345f787707e4fd8775cdcca8f52a86701b",
+            "payoutAmount": 0.016539940685215738
+        },
+        {
+            "address": "0x5568310e33dc988c5c4cf3c01369b8a41baa5834",
+            "payoutAmount": 0.016420899259021737
+        },
+        {
+            "address": "0x860bfa948972f77375cc8bd4cd6f11144a01d798",
+            "payoutAmount": 0.015847824908901395
+        },
+        {
+            "address": "0x62382286b23fa7827cfd1cb071c36bdc76539c99",
+            "payoutAmount": 0.01572411338711384
+        },
+        {
+            "address": "0x74550b54356f889ccf6da6ce463c8cabe73a851b",
+            "payoutAmount": 0.015460774959080123
+        },
+        {
+            "address": "0x4c4b321ce15d529ff3cbd0da5c1da74dec8d58ce",
+            "payoutAmount": 0.015342031514859002
+        },
+        {
+            "address": "0x04896282de5a1c2ba2aafd497a102bd538e17286",
+            "payoutAmount": 0.01524103538468129
+        },
+        {
+            "address": "0x80abe56ec021c178d799852e9233ed45078442a0",
+            "payoutAmount": 0.014931485879264354
+        },
+        {
+            "address": "0x6cb509543d6a33e358663741e482e5264e751f81",
+            "payoutAmount": 0.014827838699031542
+        },
+        {
+            "address": "0x15c19c4d8f250816c6d646a1c3b1310b81ee50ef",
+            "payoutAmount": 0.01427186542805336
+        },
+        {
+            "address": "0x603baeda4c0a4046ebc563757b5ad09a326b2d8f",
+            "payoutAmount": 0.014160643592204538
+        },
+        {
+            "address": "0x493a6ac31bf8aa9d890904efb541301464791da3",
+            "payoutAmount": 0.013840499352217464
+        },
+        {
+            "address": "0xbfda09a9dbaf485fb979eb8eb374361798ab178b",
+            "payoutAmount": 0.013492475418093213
+        },
+        {
+            "address": "0x7ea03f75f77a27ac6056b643539073f7483f4eda",
+            "payoutAmount": 0.012979798086157143
+        },
+        {
+            "address": "0x783bf4e1d9392c0b39ed15a6a3afbc48111c4459",
+            "payoutAmount": 0.012932748694734476
+        },
+        {
+            "address": "0x2414ee1ecc07f4ae80b3bfdb7c091d7251e455e8",
+            "payoutAmount": 0.012428545818084636
+        },
+        {
+            "address": "0x05eb8482a7f55b92b893d16dd73e63db338e690e",
+            "payoutAmount": 0.012061456238070471
+        },
+        {
+            "address": "0x30df6f7d0aadba10ba5e3cd59e57106b25c3127e",
+            "payoutAmount": 0.011290517461992517
+        },
+        {
+            "address": "0x918d6ca87a5b6846ed6259d2ca7d91a6ec16b111",
+            "payoutAmount": 0.011211804576498854
+        },
+        {
+            "address": "0xb0a08ecee69a8f4e0da66647125f1da789bbc9fc",
+            "payoutAmount": 0.010603911372684453
+        },
+        {
+            "address": "0xf4f68c7ffaebd4788fcd456476eab8146c55b8eb",
+            "payoutAmount": 0.010523993699490844
+        },
+        {
+            "address": "0x6465ca466610e70b782d32f7df2a914500d038c7",
+            "payoutAmount": 0.010131487516036755
+        },
+        {
+            "address": "0x7097b6b53fd61dcbb48372514ae0c2e288a90b19",
+            "payoutAmount": 0.010007409367936917
+        },
+        {
+            "address": "0x5d41a24f706b3e731f8ff38d9439030147d7e39c",
+            "payoutAmount": 0.009760910811498389
+        },
+        {
+            "address": "0xf37d21fc38a324171f57fe072dcef3c54c7e92b4",
+            "payoutAmount": 0.00908987895173909
+        },
+        {
+            "address": "0x18bbb875c6cc86f2d1df4c6189234602ea959321",
+            "payoutAmount": 0.008747075358135986
+        },
+        {
+            "address": "0xd2582e16eab61f8dcb96713a58cc7134308f63f4",
+            "payoutAmount": 0.008721209527363782
+        },
+        {
+            "address": "0xc66fe2c6efefdaf51c67672a7f7c1341435dfa04",
+            "payoutAmount": 0.00823532441994191
+        },
+        {
+            "address": "0x4a8276fbc1526984a9e7ef6673a00ded130a8e96",
+            "payoutAmount": 0.007389389517859084
+        },
+        {
+            "address": "0xd8c98d6efb8e74ad4e48d1f79d9e7f7e60a53bfd",
+            "payoutAmount": 0.007342654211467055
+        },
+        {
+            "address": "0x7ac083e96b4ebbb81ff8a64ffb99615a504b0bca",
+            "payoutAmount": 0.007128126675725696
+        },
+        {
+            "address": "0xbc4b3dd57d3fcef5ba8f22e1ce4aa9eaddb78e91",
+            "payoutAmount": 0.006708870574759157
+        },
+        {
+            "address": "0xb13947295d179b88ad60bebd09ffbcb53dc12cdb",
+            "payoutAmount": 0.006300148133047353
+        },
+        {
+            "address": "0x8fe4ef3fe03ae33e3e7262de33b15e3bd60798bc",
+            "payoutAmount": 0.005829007597225794
+        },
+        {
+            "address": "0x6b181f4108cd833ae73f400d646aa39f23727460",
+            "payoutAmount": 0.005554200002433224
+        },
+        {
+            "address": "0xeb5691310c3977ab4dd93b9830fa69afbe4940fb",
+            "payoutAmount": 0.005525554216536533
+        },
+        {
+            "address": "0xbd071de4d984f91330d4fab66c323dc94d38c220",
+            "payoutAmount": 0.0053557897162735055
+        },
+        {
+            "address": "0x495306d588cd8194beb1460328e20a36dd6d9d9d",
+            "payoutAmount": 0.00526176044772366
+        },
+        {
+            "address": "0xcfdc3502273a862ff61959c1cc892cbefa9b4ab7",
+            "payoutAmount": 0.004748241516906325
+        },
+        {
+            "address": "0x9aed5b111e3c522ba1b938d7b7bd47afe85cfa74",
+            "payoutAmount": 0.00464343292322129
+        },
+        {
+            "address": "0x735538c69998d6a198848b209b84a5316c8a638b",
+            "payoutAmount": 0.004384950713907072
+        },
+        {
+            "address": "0xda0b0bf7ea35f27c2ddd66823869b3d0a46c30e9",
+            "payoutAmount": 0.004089597326078085
+        },
+        {
+            "address": "0xfb5a1af46f80b44474e5112731e0d06696c077ba",
+            "payoutAmount": 0.0038016552800000003
+        },
+        {
+            "address": "0x06aadc1d57d78954740737166ffc1cab4cacbae0",
+            "payoutAmount": 0.00308154415257053
+        },
+        {
+            "address": "0x80cc5939dd3120a537469f4a56e837bc56fa928d",
+            "payoutAmount": 0.002631061905491225
+        },
+        {
+            "address": "0x481488922822558bd61a198336ced7746ea01b8f",
+            "payoutAmount": 0.0022048340093644087
+        },
+        {
+            "address": "0xa17534f75c35f06d83d38660b55bc37684bef33a",
+            "payoutAmount": 0.002066117
+        },
+        {
+            "address": "0xc1f3444de737babbd69b045bf03edf62e88c5bd1",
+            "payoutAmount": 0.001024423725393418
+        },
+        {
+            "address": "0x4e2b24d8e6d41c1bd8c348908e25efd89406040c",
+            "payoutAmount": 0.0010244151350608619
+        },
+        {
+            "address": "0xecdba5b1c58c103b9f79d15bf700a86318128133",
+            "payoutAmount": 0.0010244122672337333
+        },
+        {
+            "address": "0x2decfcb1f502af5a067dd805a29743fe75ba78a7",
+            "payoutAmount": 0.0007568317420314294
+        },
+        {
+            "address": "0x846d12342dd6c7866b8c6d9e3c7b9a59a00c63aa",
+            "payoutAmount": 0.0006948279468356675
+        },
+        {
+            "address": "0x937594b9eb41ac4037270a852f49cec524c877a1",
+            "payoutAmount": 0.0005853175382071548
+        },
+        {
+            "address": "0xfe7f026b2f8efaa5e91fe1b323bd882d7af1d967",
+            "payoutAmount": 0.00051652925
+        }
+    ]
+    
+}
