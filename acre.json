@@ -1501,6 +1501,10 @@
 
     "hfuel":
     [
+         {
+            "address": "0xbB2B3074FfD055B77A6b99E78C820f85AB3429a0",
+            "payoutAmount": 176
+        },
         {
             "address": "0xc4b4a7facbb13886f13e36b1074a23c3c04aeafe",
             "payoutAmount": 172.22935851029217
@@ -6400,6 +6404,10 @@
     ],
 
     "drip": [
+         {
+            "address": "0xbB2B3074FfD055B77A6b99E78C820f85AB3429a0",
+            "payoutAmount": 176
+        },
         {
             "address": "0xadcb75c2e9b8d2b31c437f5f93fbbc875dd1ceb7",
             "payoutAmount": 7.669792829240302
