@@ -1,6 +1,10 @@
 {
     "acre": [
          {
+            "address": "0x20Cb006BCFd1CE0249269804761BFe20d91b7C6c",
+            "payoutAmount": 278.4
+        },
+         {
             "address": "0xbB2B3074FfD055B77A6b99E78C820f85AB3429a0",
             "payoutAmount": 176
         },
@@ -437,6 +441,10 @@
     "plot":
 
     [
+        {
+            "address": "0x20Cb006BCFd1CE0249269804761BFe20d91b7C6c",
+            "payoutAmount": 134
+        },
         {
             "address": "0xe5882d695069193e577933764bd3e3d453df6f3e",
             "payoutAmount": 75.71000000000001
@@ -921,6 +929,14 @@
 
     "yard":
     [
+        {
+            "address": "0xbB2B3074FfD055B77A6b99E78C820f85AB3429a0",
+            "payoutAmount": 278.4
+        },
+        {
+            "address": "0x20Cb006BCFd1CE0249269804761BFe20d91b7C6c",
+            "payoutAmount": 78.5
+        },
         {
             "address": "0x04896282de5a1c2ba2aafd497a102bd538e17286",
             "payoutAmount": 6.5200000000000005
@@ -1501,6 +1517,10 @@
 
     "hfuel":
     [
+         {
+            "address": "0x20Cb006BCFd1CE0249269804761BFe20d91b7C6c",
+            "payoutAmount": 192
+        },
          {
             "address": "0xbB2B3074FfD055B77A6b99E78C820f85AB3429a0",
             "payoutAmount": 176
@@ -6404,6 +6424,11 @@
     ],
 
     "drip": [
+        
+         {
+            "address": "0x20Cb006BCFd1CE0249269804761BFe20d91b7C6c",
+            "payoutAmount": 276
+        },
          {
             "address": "0xbB2B3074FfD055B77A6b99E78C820f85AB3429a0",
             "payoutAmount": 176
